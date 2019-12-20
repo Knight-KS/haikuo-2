@@ -13,7 +13,7 @@ var VERSION = '0.12.14';
 // VIP视频解析 - 解析网址
 var VIP_URLS = `
    腾讯专用 https://vip.66parse.club/?url=
- 爱奇艺专用 http://ppplay.cn/jiexi.html?url=
+ 爱奇艺专用 https://m2090.com/?url=
     优酷专用 http://www.10yy.com.cn/?url=
       360解析 http://jx.cx77m1.cn/?url= 
     初心解析 http://jx.bwcxy.com/?v=
