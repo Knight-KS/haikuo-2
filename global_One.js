@@ -15,6 +15,7 @@ var VIP_URLS = `
    腾讯专用 https://vip.66parse.club/?url=
  爱奇艺专用 https://m2090.com/?url=
     优酷专用 http://www.10yy.com.cn/?url=
+      h8x http://www.h8jx.com/jiexi.php?url=
       360解析 http://jx.cx77m1.cn/?url= 
     初心解析 http://jx.bwcxy.com/?v=
     1907 https://z1.m1907.cn/?jx=
