@@ -1,19 +1,14 @@
-// ==UserScript==
-// @name         oo.movie
-// @namespace    oo.movie
-// @version      0.12.21
-// @description  豆瓣净化 + VIP 视频解析 + 净化内置视频源广告，电脑端与手机端通用
-// @author       (o˘◡˘o)
-// @license      GPL License
-// @include      *
-// @require      https://cdn.bootcss.com/zepto/1.2.0/zepto.min.js
-// ==/UserScript==
+/**
+ * oo.movie.hiker - 海阔视界版 - (o˘◡˘o)
+ *
+ * 其它浏览器版本，可以查看 https://gitee.com/ecruos/oo
+ */
 
-var VERSION = '0.12.21';
+var VERSION = '0.12.19';
 
-// VIP视频解析接口
+// VIP视频解析 - 解析网址
 var VIP_URLS = `
-腾讯专用 https://vip.66parse.club/?url=
+ 腾讯专用 https://vip.66parse.club/?url=
  爱奇艺专用 https://m2090.com/?url=
  h8x http://www.h8jx.com/jiexi.php?url=
     优酷专用 http://www.10yy.com.cn/?url=
@@ -34,25 +29,45 @@ var VIP_URLS = `
   98a http://jx.98a.ink/?url=
   17k http://17kyun.com/api.php?url=
   2020 https://api.2020jx.com/?url=
-
-  Egg https://www.eggvod.cn/jxjxjx.php?zhm_jx=
-
-  VIP https://chinese-elements.com/v.html?zwx=
-
-  http://jx.98a.ink/?url=
-
-  STONE https://jiexi.071811.cc/jx2.php?url=
-
-
-
-
-
-
+   
 
 `;
 
 // 搜索源
 var SEARCH_SOURCES = `
+
+  奈菲 https://www.nfmovies.com/search.php?page=1&searchword=**
+
+  云播 https://m.yunbtv.com/vodsearch/-------------.html?wd=**  https://www.yunbtv.com/vodsearch/-------------.html?wd=**
+
+  飞极速 http://m.feijisu8.com/search/**  http://feijisu8.com/search/**
+
+  樱花 http://m.yhdm.tv/search/**/  http://www.yhdm.tv/search/**/
+
+  1090 https://1090ys.com/?c=search&sort=addtime&order=desc&page=1&wd=**
+
+  残月 http://ys.23yue.cn/seacher-**.html
+
+  独播 https://www.duboku.net/vodsearch/-------------.html?wd=**
+
+  拾伍 https://www.shiwutv.com/vodsearch/-------------.html?wd=**
+
+  大全 http://01th.net/search/?wd=**
+
+  影迷 https://www.yingmiwo.com/vodsearch.html?wd=**
+
+  APP https://app.movie/index.php/vod/search.html?wd=**
+
+  八兔 http://www.8tutv.com/search/?category=0&q=**
+
+  vipku http://www.2n65.cn/index.php/vod/search.html?wd=**
+
+`;
+
+var screenWidth = window.screen.width;
+var isMobile = screenWidth <= 600;
+
+var SEARCH_VIP_SOURCES = `
 
   爱奇艺 https://m.iqiyi.com/search.html?source=default&key=**  https://so.iqiyi.com/so/q_**
 
@@ -68,35 +83,156 @@ var SEARCH_SOURCES = `
 
   乐视 http://m.le.com/search?wd=**  http://so.le.com/s?wd=**
 
-  奈菲 https://www.nfmovies.com/search.php?page=1&searchword=**
-
-  残月 http://ys.23yue.cn/seacher-**.html
-
-  云播 https://m.yunbtv.com/vodsearch/-------------.html?wd=**  https://www.yunbtv.com/vodsearch/-------------.html?wd=**
-
-  飞极速 http://m.feijisu8.com/search/**  http://feijisu8.com/search/**
-
-  独播 https://www.duboku.net/vodsearch/-------------.html?wd=**
-
-  拾伍 https://www.shiwutv.com/vodsearch/-------------.html?wd=**
-
-  大全 http://01th.net/search/?wd=**
-
-  樱花 http://m.yhdm.tv/search/**/  http://www.yhdm.tv/search/**/
-
-  1090 https://1090ys.com/?c=search&sort=addtime&order=desc&page=1&wd=**
-
-  APP https://app.movie/index.php/vod/search.html?wd=**
-
-  八兔 http://www.8tutv.com/search/?category=0&q=**
-
-  vipku http://www.2n65.cn/index.php/vod/search.html?wd=**
-
-  影迷 https://www.yingmiwo.com/vodsearch.html?wd=**
-
 `;
 
+var commonSearchKeywordRegex = /(wd|key|keyword|keyWord|q)=([^&\?\/\.]+)|(search\/|seacher-|q_)([^&\?\/\.]+)/;
+
+function getKeywordFromUrl(regex, url) {
+  var matches = (url || location.href).match(regex || commonSearchKeywordRegex);
+  return matches
+    ? decodeURIComponent(regex ? matches[1] : matches[2] || matches[4])
+    : '';
+}
+
+var SEARCH_ADDONS = [
+  {
+    match: /m.iqiyi.com\/search|so.iqiyi.com/,
+    position: '.m-box, search-con-page'
+  },
+  {
+    match: /v.qq.com\/(x\/)?search/,
+    position: '.search_item, .wrapper_main > .mod_pages'
+  },
+  {
+    match: /bilibili.com\/search|search.bilibili.com/,
+    position: '.page-wrap, .index__board__src-search-board-'
+  },
+  {
+    match: /soku.com\/m.+q=|so.youku.com\/search_video/,
+    position: '#bpmodule-main, .yk_result'
+  },
+  {
+    // TODO 移动端适配
+    match: /m.tv.sohu.com.+key=|so.tv.sohu.com.+wd=/,
+    position: '.ssFilter',
+    positionBy: 'before'
+  },
+  {
+    // TODO 移动端适配
+    match: /m.mgtv.com\/so\/|so.mgtv.com\/so/,
+    position: '#app, .search-resultlist',
+    keyword: /k[-=]([^&\?\/\.]+)/
+  },
+  {
+    // TODO 待适配
+    match: /m.le.com\/search|so.le.com\/s/,
+    position: '.Relate, .column_tit',
+    positionBy: 'before'
+  },
+  {
+    match: 'nfmovies.com/search',
+    position: '.hy-page',
+    keyword($) {
+      return $('.hy-video-head .text-color')
+        .eq(1)
+        .text()
+        .replace(/^“|”$/g, '');
+    }
+  },
+  {
+    match: 'yunbtv.com/vodsearch',
+    position: '.pager',
+    keyword: '.breadcrumb font'
+  },
+  {
+    match: 'feijisu8.com/search',
+    position: '#result'
+  },
+  {
+    match: 'yhdm.tv/search',
+    position: '.footer, .foot',
+    positionBy: 'before'
+  },
+  {
+    match: /1090ys.com\/.+c=search/,
+    position: '.stui-page'
+  },
+  {
+    match: 'ys.23yue.cn/seacher',
+    position: '.stui-pannel_bd > .stui-vodlist__media'
+  },
+  {
+    match: 'duboku.net/vodsearch',
+    position: '.myui-panel_bd > .myui-vodlist__media'
+  },
+  {
+    match: 'shiwutv.com/vodsearch',
+    position: '.stui-page'
+  },
+  {
+    match: '01th.net/search',
+    position: '.stui-page'
+  },
+  {
+    match: 'yingmiwo.com/vodsearch',
+    position: '.page_tips'
+  },
+  {
+    match: 'app.movie/index.php/vod/search.html',
+    position: '.stui-page'
+  },
+  {
+    match: '8tutv.com/search',
+    position: '.ys'
+  },
+  {
+    match: '2n65.cn/index.php/vod/search.html',
+    position: '.page_tips'
+  }
+];
+
 (function() {
+    if (!!window.fy_bridge_app) {
+  // load dependencies
+  eval(request('https://cdn.bootcss.com/zepto/1.2.0/zepto.min.js'));
+
+  var $ = window.Zepto || window.jQuery || window.$;
+
+  if (/m\.douban\.com\/movie\/subject\//.test(location.href)) {
+    $(function() {
+      function rgbToHex(rgb) {
+        var color = rgb.toString().match(/\d+/g);
+        if (color.length != 3) return rgb;
+
+        var hex = '#';
+
+        for (var i = 0; i < 3; i++) {
+          hex += ('0' + Number(color[i]).toString(16)).slice(-2);
+        }
+        return hex;
+      }
+
+      function syncAppColor() {
+        var style = $('#subject-header-container').attr('style');
+
+        if (!style) {
+          setTimeout(function() {
+            syncAppColor();
+          }, 100);
+        } else {
+          var mainColor = style.match(/:\s*([^;]+);?/)[1];
+          try {
+            window.fy_bridge_app.setAppBarColor(rgbToHex(mainColor));
+          } catch (error) {
+            console.error('setAppBarColor:', error);
+          }
+        }
+      }
+
+      syncAppColor();
+    });
+  }
+}
   var isGM = !!window.GM;
 
   if (isGM && location.href.includes('doubleclick.net')) return;
@@ -106,112 +242,13 @@ var SEARCH_SOURCES = `
   if (window[PLUGIN_ID]) return;
   window[PLUGIN_ID] = VERSION;
 
-  var DEBUG = false;
-
-  VIP_URLS = window.VIP_URLS || VIP_URLS;
-  SEARCH_SOURCES = window.SEARCH_SOURCES || SEARCH_SOURCES;
-
-  var SEARCH_ADDONS = [
-    {
-      match: /m.iqiyi.com\/search|so.iqiyi.com/,
-      position: '.m-box, .search-con-page'
-    },
-    {
-      match: /v.qq.com\/(x\/)?search/,
-      position: '.search_item, .wrapper_main > .mod_pages'
-    },
-    {
-      match: /bilibili.com\/search|search.bilibili.com/,
-      position: '.page-wrap, .index__board__src-search-board-'
-    },
-    {
-      match: /soku.com\/m.+q=|so.youku.com\/search_video/,
-      position: '#bpmodule-main, .yk_result'
-    },
-    {
-      match: /m.tv.sohu.com.+key=|so.tv.sohu.com.+wd=/,
-      position: '.ssFilter',
-      positionBy: 'before'
-    },
-    {
-      match: /m.mgtv.com\/so\/|so.mgtv.com\/so/,
-      position: '#app, .search-resultlist',
-      keyword: /k[-=]([^&\?\/\.]+)/
-    },
-    {
-      match: /m.le.com\/search|so.le.com\/s/,
-      position: '.Relate, .column_tit',
-      positionBy: 'before'
-    },
-    {
-      match: 'nfmovies.com/search',
-      position: '.hy-page',
-      keyword($) {
-        return $('.hy-video-head .text-color')
-          .eq(1)
-          .text()
-          .replace(/^“|”$/g, '');
-      }
-    },
-    {
-      match: 'yunbtv.com/vodsearch',
-      position: '.pager',
-      keyword: '.breadcrumb font'
-    },
-    {
-      match: 'feijisu8.com/search',
-      position: '#result'
-    },
-    {
-      match: 'yhdm.tv/search',
-      position: '.footer, .foot',
-      positionBy: 'before'
-    },
-    {
-      match: /1090ys.com\/.+c=search/,
-      position: '.stui-page'
-    },
-    {
-      match: 'ys.23yue.cn/seacher',
-      position: '.stui-pannel_bd > .stui-vodlist__media'
-    },
-    {
-      match: 'duboku.net/vodsearch',
-      position: '.myui-panel_bd > .myui-vodlist__media'
-    },
-    {
-      match: 'shiwutv.com/vodsearch',
-      position: '.stui-page'
-    },
-    {
-      match: '01th.net/search',
-      position: '.stui-page'
-    },
-    {
-      match: 'app.movie/index.php/vod/search.html',
-      position: '.stui-page'
-    },
-    {
-      match: '8tutv.com/search',
-      position: '.ys'
-    },
-    {
-      match: '2n65.cn/index.php/vod/search.html',
-      position: '.left_row',
-      positionBy: 'append'
-    },
-    {
-      match: 'yingmiwo.com/vodsearch',
-      position: '.left_row',
-      positionBy: 'append'
-    }
-  ];
+  var DEBUG = true;
 
   function log() {
     if (!DEBUG) return;
 
     var args = [];
-    args.push(PLUGIN_ID + '  ');
+    args.push(PLUGIN_ID + '    ');
     for (var i = 0; i < arguments.length; i++) {
       args.push(arguments[i]);
     }
@@ -227,20 +264,6 @@ var SEARCH_SOURCES = `
     return regex.test(href);
   }
 
-  var screenWidth = window.screen.width;
-  var isMobile = screenWidth <= 600;
-
-  var commonSearchKeywordRegex = /(wd|key|keyword|keyWord|q)=([^&\?\/\.]+)|(search\/|seacher-|q_)([^&\?\/\.]+)/;
-
-  function getKeywordFromUrl(regex, url) {
-    var matches = (url || location.href).match(
-      regex || commonSearchKeywordRegex
-    );
-    return matches
-      ? decodeURIComponent(regex ? matches[1] : matches[2] || matches[4])
-      : '';
-  }
-
   if (
     !Is(/=http/) &&
     Is(/\.le\.com/) &&
@@ -248,7 +271,7 @@ var SEARCH_SOURCES = `
   )
     return;
 
-    var $ = window.Zepto || window.jQuery || window.$;
+  var $ = window.Zepto || window.jQuery || window.$;
 
   /**
    * Utils
@@ -366,19 +389,9 @@ var SEARCH_SOURCES = `
   color: #257942;
 }
 
-.oo-vip-title span {
-  font-size: 0.75em;
-  margin: 0 10px;
-  color: #ced4da;
-}
-
 .oo-vip-sign {
   padding: .5em;
-  opacity: .15;
-}
-
-.oo-vip-sign a {
-  text-decoration: none;
+  opacity: .25;
 }
 
 .oo-vip-list {
@@ -402,47 +415,30 @@ var SEARCH_SOURCES = `
   font-weight: 600;
   text-decoration: none;
 }
-
-.oo-vip-list .oo-vip-item:hover, .oo-vip-list .oo-vip-item:active {
-  background-color: #1d72aa;
-  color: #eef6fc;
-}
 `
     );
 
     $(selector).eq(0)[position](`
 <div class="oo-vip">
   <div class="oo-vip-panel">
-    <div class="oo-vip-title">VIP 解析<span>v${VERSION}</span></div>
-    <div class="oo-vip-sign"><a target="_blank" href="https://gitee.com/ecruos/oo">${OO_SIGN}</a></div>
+    <div class="oo-vip-title">VIP 解析</div>
+    <div class="oo-vip-sign">${OO_SIGN}</div>
   </div>
   <div class="oo-vip-list">
 ${VIP_URLS.map(function(link) {
   var oUrl = parseOUrl(link);
-  return oUrl.url.includes('eggvod.cn')
-    ? '<a class="oo-vip-item" id="oo-vip-eggvod">' + oUrl.name + '</a>'
-    : '<a class="oo-vip-item" href="' +
-        (oUrl.url + location.href) +
-        '">' +
-        oUrl.name +
-        '</a>';
+  return (
+    '<a class="oo-vip-item" target="_blank" href="' +
+    (oUrl.url + location.href) +
+    '">' +
+    oUrl.name +
+    '</a>'
+  );
 }).join('\n')}
   </div>
 </div>
 </div>
 `);
-
-    $('#oo-vip-eggvod').click(function() {
-      $.get('https://www.eggvod.cn/jxcode.php', { in: 81566699 }, function(
-        data
-      ) {
-        location.href =
-          'https://www.eggvod.cn/jxjxjx.php?lrspm=' +
-          data +
-          '&zhm_jx=' +
-          location.href;
-      });
-    });
   }
 
   function getSearchSourcesHtml(keyword) {
@@ -480,13 +476,11 @@ ${VIP_URLS.map(function(link) {
   color: #257942;
   cursor: pointer;
   border: 1px solid #f1f3f5;
-  text-decoration: none;
 }
 
 .oo-sources a:hover {
   border: 1px solid #099268;
-  background-color: #257942;
-  color: #effaf3;
+  color: #2b8a3e;
 }
 `);
     }
@@ -500,15 +494,27 @@ ${getSearchSourcesHtml(keyword)}
     return Array.isArray(arr) ? arr : arr.trim().split(/[\n\s]*\n+[\n\s]*/);
   }
 
-  VIP_URLS = ensureArray(VIP_URLS).map(v => v.replace(/=http.+/g, '='));
+  if (window.VIP_URLS) {
+    VIP_URLS = window.VIP_URLS;
+  }
 
-  SEARCH_SOURCES = ensureArray(SEARCH_SOURCES).map(v => {
-    var oUrl = parseOUrl(v);
-    return {
-      url: oUrl.url,
-      name: oUrl.name
-    };
+  if (window.SEARCH_SOURCES) {
+    SEARCH_SOURCES = window.SEARCH_SOURCES;
+  }
+
+  VIP_URLS = ensureArray(VIP_URLS).map(function(v) {
+    return v.replace(/=http.+/g, '=');
   });
+
+  SEARCH_SOURCES = ensureArray(SEARCH_VIP_SOURCES)
+    .concat(ensureArray(SEARCH_SOURCES))
+    .map(v => {
+      var oUrl = parseOUrl(v);
+      return {
+        url: oUrl.url,
+        name: oUrl.name
+      };
+    });
 
   if (Is(/(url|jx|zwx)=http/)) {
     // VIP 视频解析
@@ -528,6 +534,8 @@ ${getSearchSourcesHtml(keyword)}
     Is(/m\.douban\.com\/search\/\?.*type=movie|search\.douban\.com\/movie\//)
   ) {
     log('豆瓣·电影·搜索');
+
+    // TODO 搜索结果唯一时，自动跳转
 
     if (!Is(/m\.douban\.com\//)) {
       /**
@@ -726,7 +734,7 @@ section + .center,
 
 ._V_sign {
   font-size: 0.85em;
-  opacity: 0.15;
+  opacity: 0.25;
   text-align: center;
   padding-bottom: 1em;
 }
@@ -812,7 +820,7 @@ input[type="search"]::-webkit-search-results-decoration {
       $('#TalionNav').css('display', 'block');
 
       $('#TalionNav .logo')
-        .html(OO_SIGN)
+        .html(decodeURIComponent('(o%CB%98%E2%97%A1%CB%98o)'))
         .attr('href', 'https://movie.douban.com/tag/#/');
 
       $('.search-box').remove();
@@ -1448,74 +1456,17 @@ a.item .pic img {
     $(function() {
       insertVipSource('.ep-list-pre-wrapper', 'before');
     });
-  } else if (Is(/localhost:1234|ecruos\.gitee\.io\/one/)) {
+  } else if (Is(/localhost|ecruos\.gitee\.io\/one/)) {
     log('One·主页');
 
     $(function() {
       localStorage.setItem('One.plugin.version', VERSION);
     });
-  } else if (Is(/nfmovies\.com/)) {
+  } else if (Is(/\.nfmovies\.com/)) {
     log('奈菲');
 
     addStyle(`
-img[src*='tu/ad'],
-.clearfix a[onclick] img {
-  display: none !important;
-  visibility: hidden !important;
-  position: absolute !important;
-  left: -9999px !important;
-}
-
-#adleft, #adright {
-  visibility: hidden !important;
-  position: absolute !important;
-  left: -9999px !important;
-}
-`);
-  } else if (Is(/feijisu8\.com/)) {
-    log('飞极速');
-
-    addStyle(`
-.index-top ~ div,
-.v-top ~ div[id],
-.footer ~ div,
-.footer ~ brde {
-  display: none !important;
-  visibility: hidden !important;
-  position: absolute !important;
-  left: -9999px !important;
-}
-`);
-  } else if (Is(/yhdm\.tv/)) {
-    log('樱花动漫');
-
-    addStyle(`
-.footer ~ div,
-a[href*='elfdoll.cn'],
-.head + .area ~ div:not([class]) {
-  display: none !important;
-  visibility: hidden !important;
-  position: absolute !important;
-  left: -9999px !important;
-}
-`);
-  } else if (Is(/1090ys\.com/)) {
-    log('1090影视');
-
-    addStyle(`
-.container ~ div[id] {
-  display: none !important;
-  visibility: hidden !important;
-  position: absolute !important;
-  left: -9999px !important;
-}
-`);
-  } else if (Is(/yingmiwo\.com/)) {
-    log('影迷窝');
-
-    addStyle(`
-#bottom_ads,
-.ads_box {
+img[src*='tu/ad'] {
   display: none !important;
   visibility: hidden !important;
   position: absolute !important;
