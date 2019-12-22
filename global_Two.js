@@ -778,7 +778,7 @@
     var apis=[
 
          {"name":"腾讯专用","url":"https://vip.66parse.club/?url="},
- {"name":"爱奇艺专用","url":"https://m2090.com/?url="},
+ {"name":"爱奇艺专用","url":"https://www.playm3u8.cn/jiexi.php?url="},
 {"name":"h8x","url":"http://www.h8jx.com/jiexi.php?url="},
      {"name":"360解析","url":"http://jx.cx77m1.cn/?url="},   
     {"name":"初心解析","url":"http://jx.bwcxy.com/?v="},
