@@ -4,6 +4,7 @@
 海阔代码
 
 #### 软件架构
+海阔下载：https://www.lanzous.com/u/GoldRiver
 软件架构说明
 
 
