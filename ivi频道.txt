@@ -3,7 +3,7 @@ CCTV-1高清,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 CCTV-2高清,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
 CCTV-3高清cctv3hd,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 CCTV-4高清cctv4hd,http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-CCTV-5高清cctv5hd,https://cctv5cnch5c.v.wscdns.com/live/cdrmcctv5_1_1800/playlist.m3u8?wsHost=h5.schls.8686c.com&wsApp=HLS
+CCTV-5高清cctv5hd,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
 CCTV-5+高清cctv5phd,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
 CCTV-6高清cctv6hd,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 CCTV-7高清cctv7hd,http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
