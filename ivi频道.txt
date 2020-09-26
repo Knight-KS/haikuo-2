@@ -407,10 +407,65 @@ PDL发展联赛,http://aldirect.rtmp.huya.com/src/78941969-2703453392-1161124390
 专享,#genre#
 松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/media-u7n7u13fd_w1523462549_12518.m3u8
 happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
-其1,http://pull.leshantangjt.com/live/playlist.m3u8NewTV
-其2,http://live.redtraffic.xyz:80/teen.m3u8
-其3,http://live.redtraffic.xyz:80/cuckold.m3u8
-其4,http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
+其1,http://pull.leshantangjt.com/live/playlist.m3u8
+专享1需帆,#genre#
+ Live Cams-AdultIPTV.net ,http://cdn.adultiptv.net/livecams.m3u8
+ Anal-AdultIPTV.net ,http://cdn.adultiptv.net/anal.m3u8
+ Big Ass-AdultIPTV.net ,http://cdn.adultiptv.net/bigass.m3u8
+ Big Dick-AdultIPTV.net ,http://cdn.adultiptv.net/bigdick.m3u8
+ Big Tits-AdultIPTV.net ,http://cdn.adultiptv.net/bigtits.m3u8
+ Blonde-AdultIPTV.net ,http://cdn.adultiptv.net/blonde.m3u8
+ Blowjob-AdultIPTV.net ,http://cdn.adultiptv.net/blowjob.m3u8
+ Brunette-AdultIPTV.net ,http://cdn.adultiptv.net/brunette.m3u8
+ Compilation-AdultIPTV.net ,http://cdn.adultiptv.net/compilation.m3u8
+ Cuckold-AdultIPTV.net ,http://cdn.adultiptv.net/cuckold.m3u8
+ Fetish-AdultIPTV.net ,http://cdn.adultiptv.net/fetish.m3u8
+ Gangbang-AdultIPTV.net ,http://cdn.adultiptv.net/gangbang.m3u8
+ Gay-AdultIPTV.net ,http://cdn.adultiptv.net/gay.m3u8
+ Hardcore-AdultIPTV.net ,http://cdn.adultiptv.net/hardcore.m3u8
+ Interracial-AdultIPTV.net ,http://cdn.adultiptv.net/interracial.m3u8
+ Latina-AdultIPTV.net ,http://cdn.adultiptv.net/latina.m3u8
+ Lesbian-AdultIPTV.net ,http://cdn.adultiptv.net/lesbian.m3u8
+ MILF-AdultIPTV.net ,http://cdn.adultiptv.net/milf.m3u8
+ Pornstar-AdultIPTV.net ,http://cdn.adultiptv.net/pornstar.m3u8
+ POV-AdultIPTV.net ,http://cdn.adultiptv.net/pov.m3u8
+ Rough-AdultIPTV.net ,http://cdn.adultiptv.net/rough.m3u8
+ Russian-AdultIPTV.net ,http://cdn.adultiptv.net/russian.m3u8
+ Teen-AdultIPTV.net ,http://cdn.adultiptv.net/teen.m3u8
+ Threesome-AdultIPTV.net ,http://cdn.adultiptv.net/threesome.m3u8
+Amazing TV-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
+AST TV 1,https://www.ast.tv/stream/1/ultra.m3u8
+AST TV 2,https://www.ast.tv/stream/2/ultra.m3u8
+Babestation24,https://sdn-global-live-http-cache.3qsdn.com/live/_definst_/amlst:9528-mbr/chunklist.m3u8
+HOT-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/8c855d75/index.m3u8
+Jasmin TV-AdultIPTV.net ,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+Korean Adult TV-AdultIPTV.net ,http://122.38.74.172:9981/stream/channelid/1463854277
+Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
+Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+Miami TV Latino,https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w577650521_b2592000.m3u8
+Midnight TV-AdultIPTV.net ,http://112.148.183.161:9981/stream/channelid/96001658
+Pandora Pink HD-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/8c85giea/index.m3u8
+Private TV HD-AdultIPTV.net ,http://188.35.9.5:10005/stolen/153a/imposter.rar
+Privé TV-AdultIPTV.net ,http://08139e2f.ottv.info/iptv/S9824PT3RW2E72/877/index.m3u8
+Rainbow TV-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/8c855daa/index.m3u8
+Super One HD-AdultIPTV.net ,http://188.35.9.5:10007/stolen/246r/parasite.install
+Sōng shì 1-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/8c855fdf/index.m3u8
+Sōng shì 2-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/984fa1vb/index.m3u8
+Viki-AdultIPTV.net ,http://112.148.183.161:9981/stream/channelid/488704961
+Visit-X TV-AdultIPTV.net ,http://stream.visit-x.tv:1935/vxtv/live_720p/playlist.m3u8
+Vivid TV Europe-AdultIPTV.net ,http://188.35.9.26:2031/udp/031a
+XCafe 1-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/846a1ghm/index.m3u8
+XCafe 2-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/1bf4a301/index.m3u8
+XCafe 3-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/ahun18hg/index.m3u8
+XCafe 4-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/84a15gbc/index.m3u8
+XCafe Anal-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/952a3vvv/index.m3u8
+XCafe Asian-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/456oinav/index.m3u8
+XCafe Blowjob-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/91bnjred/index.m3u8
+XCafe Ebony-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/8jainsbq/index.m3u8
+XCafe Erotic-AdultIPTV.net ,http://204.45.182.172:26789/i/ghjnvq5o/v19a2133/index.m3u8
+Zest TV-AdultIPTV.net ,http://188.35.9.5:10007/stolen/214g/parasite.install
+NYX Media 1,https://cdn1.ibizastream.biz:441/free/1/playlist.m3u8
+NYX Media 2,https://cdn1.ibizastream.biz:441/free/2/playlist.m3u8
 MTV频道,#genre#
 张碧晨-凉凉,http://vodcdn.video.taobao.com/oss/taobao-ugc/81a4db5f7bb14f2e8260445fedc805c0/1484029283/video.m3u8.m3u8
 草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
