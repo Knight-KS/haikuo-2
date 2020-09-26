@@ -404,6 +404,9 @@ PDL发展联赛,http://aldirect.rtmp.huya.com/src/78941969-2703453392-1161124390
 网游逆战·夜崽崽,http://aldirect.rtmp.huya.com/backsrc/24902339-24902339-106954731598905344-606763766-10057-A-0-1.m3u8
 三亿火线·白鲨Ayom,http://tx2play1.douyucdn.cn/live/12821rmHNB7Jis.flv
 主机游戏·狂鸟丶愿凡,http://aldirect.rtmp.huya.com/backsrc/33900931-33900931-145603389948952576-161483998-10057-A-0-1.m3u8
+专享,#genre#
+松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/media-u7n7u13fd_w1523462549_12518.m3u8
+happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
 MTV频道,#genre#
 张碧晨-凉凉,http://vodcdn.video.taobao.com/oss/taobao-ugc/81a4db5f7bb14f2e8260445fedc805c0/1484029283/video.m3u8.m3u8
 草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
