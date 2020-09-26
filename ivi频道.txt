@@ -410,7 +410,7 @@ happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.
 其1,http://pull.leshantangjt.com/live/playlist.m3u8NewTV
 其2,http://live.redtraffic.xyz:80/teen.m3u8
 其3,http://live.redtraffic.xyz:80/cuckold.m3u8
-其4,https://fc.imgscloud.com/n/ithachcstc/ithachcstc.m3u8
+其4,http://204.45.182.172:26789/i/ghjnvq5o/8c85fsaf/index.m3u8
 MTV频道,#genre#
 张碧晨-凉凉,http://vodcdn.video.taobao.com/oss/taobao-ugc/81a4db5f7bb14f2e8260445fedc805c0/1484029283/video.m3u8.m3u8
 草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
