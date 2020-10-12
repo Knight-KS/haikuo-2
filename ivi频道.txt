@@ -1,3 +1,27 @@
+央视频道,#genre#
+CCTV-1高清,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
+CCTV-2高清,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
+CCTV-3高清cctv3hd,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV-4高清cctv4hd,http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
+CCTV-5高清cctv5hd,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
+CCTV-5高清cctv5hd,http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
+CCTV-5+高清cctv5phd,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
+CCTV-6高清cctv6hd,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
+CCTV-7高清cctv7hd,http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
+CCTV-8高清cctv8hd,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
+CCTV-9高清cctv9hd,http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
+CCTV-10高清cctv10hd,http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
+CCTV-12高清cctv12hd,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
+CCTV-13新闻cctv13,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
+CCTV-14高清cctv14hd,http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
+CCTV-14高清cctv14hd,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
+CCTV-15音乐cctv15,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
+CGTNcctv16,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
+CCTV-17农业农村cctv17,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
+CCTV-17农业农村cctv17,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
+CGTN高清cgtnhd,http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
+CGTN DOC高清cgtndochd,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
+CHC高清电影chchd,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 各省卫视,#genre#
 北京卫视高清btv1hd,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 北京文艺高清btv2hd,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
@@ -101,30 +125,6 @@ Music电视,https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-T
 CBS新闻,http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 CON电视,https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8
 Dance电视,https://vcndstv.teleosmedia.com/stream/dstv/dstv/seglist_720p.m3u8
-央视频道,#genre#
-CCTV-1高清,http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
-CCTV-2高清,http://ivi.bupt.edu.cn/hls/cctv2hd.m3u8
-CCTV-3高清cctv3hd,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
-CCTV-4高清cctv4hd,http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
-CCTV-5高清cctv5hd,http://cctvalih5ca.v.myalicdn.com/live/cctv5_2/index.m3u8
-CCTV-5高清cctv5hd,http://39.134.65.162/PLTV/88888888/224/3221225491/index.m3u8
-CCTV-5+高清cctv5phd,http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
-CCTV-6高清cctv6hd,http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-CCTV-7高清cctv7hd,http://ivi.bupt.edu.cn/hls/cctv7hd.m3u8
-CCTV-8高清cctv8hd,http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
-CCTV-9高清cctv9hd,http://ivi.bupt.edu.cn/hls/cctv9hd.m3u8
-CCTV-10高清cctv10hd,http://ivi.bupt.edu.cn/hls/cctv10hd.m3u8
-CCTV-12高清cctv12hd,http://ivi.bupt.edu.cn/hls/cctv12hd.m3u8
-CCTV-13新闻cctv13,http://ivi.bupt.edu.cn/hls/cctv13.m3u8
-CCTV-14高清cctv14hd,http://ivi.bupt.edu.cn/hls/cctv14hd.m3u8
-CCTV-14高清cctv14hd,http://ivi.bupt.edu.cn/hls/cctv14.m3u8
-CCTV-15音乐cctv15,http://ivi.bupt.edu.cn/hls/cctv15.m3u8
-CGTNcctv16,http://ivi.bupt.edu.cn/hls/cctv16.m3u8
-CCTV-17农业农村cctv17,http://ivi.bupt.edu.cn/hls/cctv17.m3u8
-CCTV-17农业农村cctv17,http://ivi.bupt.edu.cn/hls/cctv17hd.m3u8
-CGTN高清cgtnhd,http://ivi.bupt.edu.cn/hls/cgtnhd.m3u8
-CGTN DOC高清cgtndochd,http://ivi.bupt.edu.cn/hls/cgtndochd.m3u8
-CHC高清电影chchd,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 港澳台,#genre#
 香港hks,http://cctvtxyh5ca.liveplay.myqcloud.com/cstv/xianggangweishi_2_hd.m3u8
 凤凰香港台,http://223.82.250.72/live/fhhongkong/1.m3u8
@@ -162,6 +162,18 @@ TVB星河,http://tvbilive14-i.akamaihd.net/hls/live/496347/CXHMovie/CXHMovie-01.
 大愛二臺HD,http://tv2.wanfudaluye.com/live/live.m3u8
 靖天戲劇台,http://61.58.60.230:9319/live/203.m3u8
 靖天日本台,http://61.58.60.230:9319/live/243.m3u8
+海看频道,#genre#
+海看大片蓝光,http://120.221.5.113:8089/PLTV/88888888/224/3221225632/index.m3u8
+海看大片蓝光,http://120.221.5.165:8089/PLTV/88888888/224/3221225632/index.m3u8
+海看剧场蓝光,http://120.221.5.113:8089/PLTV/88888888/224/3221226053/index.m3u8
+海看剧场蓝光,http://120.221.5.101:8089/PLTV/88888888/224/3221226053/index.m3u8
+海看剧场蓝光,http://120.221.5.108:8089/PLTV/88888888/224/3221226053/index.m3u8
+海看热播蓝光,http://120.221.5.108:8089/PLTV/88888888/224/3221225878/index.m3u8
+海看热播蓝光,http://120.221.5.101:8089/PLTV/88888888/224/3221225878/index.m3u8
+黑莓动画,http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226289/1.m3u8
+黑莓电影,http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226292/1.m3u8
+黑莓电竞,http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
+星影电影,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8?CONTENTID=00000110240279_1
 体育频道,#genre#
 篮球纪录片点播TV,http://tx2play1.douyucdn.cn/live/522898rbvnLhujMe.flv?uuid=
 篮球纪录片大全点播,http://tx2play1.douyucdn.cn/live/521126rKn7wGRKt2.flv?uuid=
@@ -289,32 +301,11 @@ FZTV少儿,http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
 浙江少儿,http://yf.m.l.cztv.com/channels/lantian/channel08/360p.m3u8
 天津少儿,http://112.240.60.81/live2.wisetv.com.cn/TJIPTV/TJSE/playlist.m3u8?wsSession=-
 综合影视,#genre#
-恐怖 丧尸 鬼片 灾难,http://tx2play1.douyucdn.cn/live/263824roapeJ4Anu_8000.flv
-【黑帮大片】山鸡哥重现江湖,http://aldirect.rtmp.huya.com/backsrc/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
-林正英搞笑电影系列,http://aldirect.rtmp.huya.com/backsrc/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1.m3u8
-【周星星】精彩电影无间断,http://al.rtmp.huya.com/src/94525224-2460685313-10568562945082523648-2789274524-10057-A-0-1.m3u8
-邵氏电影,https://cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164219/live_97065163_17925468.m3u8
-极限挑战·男人帮爆笑来袭,http://aldirect.rtmp.huya.com/backsrc/28466698-2689655562-11551982676294500352-2847687628-10057-A-0-1.m3u8
-爱情公寓,http://aldirect.rtmp.huya.com/backsrc/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1.m3u8
-武林外传,http://aldirect.rtmp.huya.com/backsrc/29141112-2689670670-11552047564660408320-2847687630-10057-A-0-1.m3u8
-家有儿女,http://aldirect.rtmp.huya.com/backsrc/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1.m3u8
-经典频道,http://stream.guihet.com/migu/index.php?id=625542369
-周星驰经典轮播,http://3954.liveplay.myqcloud.com/live/3954_382995145.flv
-经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv
-电【周星驰】星爷 华语 经典 电影 神乐,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
-【神乐】华语 经典 电影 刘德华 周星驰,http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
-【贝爷影厅】经典 科幻 动作 灾难 巨兽,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi.flv
-电影可乐 欧美 电影 科幻 经典 动作,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
-电影【小鸽陪看】动作 枪战 华语 经典,http://tx2play1.douyucdn.cn/live/3928r9p0BHMDG.flv
-小品轮播,http://aldirect.rtmp.huya.com/huyalive/29106097-2689281338-11550375396453122048-2777038134-10057-A-0-1.m3u8
-【动漫】热血 木叶忍者 草帽路飞 青春,http://tx2play1.douyucdn.cn/live/206858rtestxjl.flv
-【苹果曼曼】我们的童年,http://tx2play1.douyucdn.cn/live/1174353ritsYBHoe.flv
-综艺24H,http://tx2play1.douyucdn.cn/live/131977rUvKJTw5sL_8000.flv?uuid=
-MTV音乐,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-女团 直拍 饭拍 24h,http://tx2play1.douyucdn.cn/live/231464rjqCxY4llZ.flv
-Kpop女团24h,http://tx2play1.douyucdn.cn/live/329667rVyd6kR9R9.flv
-【男团】精选二次元韩国现场,http://tx2play1.douyucdn.cn/live/455891rGvYUCFBUv.flv
-【一战 二战 历史 军事】,http://tx2play1.douyucdn.cn/live/4870914r49PlhyWK.flv
+TV经典电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/492270/live_189986442_7728008.m3u8
+TV动作电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/366214/live_199793349_7660540.m3u8
+TV国产电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/750227/live_268522326_2538218.m3u8
+TV国外电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/211012/live_52370715_1734265.m3u8
+TV恐怖电影,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8
 明星系列,#genre#
 成   龙,http://aldirect.rtmp.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1.m3u8
 吴   京,http://aldirect.rtmp.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
