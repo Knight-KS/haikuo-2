@@ -1,0 +1,748 @@
+SUPERSPORT,http://112.213.101.147/cctv/UBlive.php?id=444
+SUPERSPORT 2,http://112.213.101.147/cctv/UBlive.php?id=445
+SUPERSPORT 3,http://112.213.101.147/cctv/UBlive.php?id=446
+SUPERSPORT 4,http://112.213.101.147/cctv/UBlive.php?id=447
+AOD,http://112.213.101.147/cctv/UBlive.php?id=428
+AODb,http://112.213.101.147/cctv/UBlive.php?id=450
+AEC,http://112.213.101.147/cctv/UBlive.php?id=433
+翡翠台,http://112.213.101.147/cctv/UBlive.php?id=429 
+全佳,http://112.213.101.147/cctv/UBlive.php?id=427
+双星,http://112.213.101.147/cctv/UBlive.php?id=431
+欢喜台,http://112.213.101.147/cctv/UBlive.php?id=432
+小太阳,http://112.213.101.147/cctv/UBlive.php?id=443
+天映頻道,http://112.213.101.147/cctv/UBlive.php?id=441
+
+qq群:1128582638  qq群:1128582638
+
+
+KIX,http://112.213.101.147/cctv/UBlive.php?id=430
+AWANI,http://112.213.101.147/cctv/UBlive.php?id=440
+TV1,http://112.213.101.147/cctv/UBlive.php?id=435
+TV2,http://112.213.101.147/cctv/UBlive.php?id=436
+TV3,http://112.213.101.147/cctv/UBlive.php?id=437
+NTV7,http://112.213.101.147/cctv/UBlive.php?id=439
+8TV,http://112.213.101.147/cctv/UBlive.php?id=442
+TV9,http://112.213.101.147/cctv/UBlive.php?id=438
+CNA,http://112.213.101.147/cctv/UBlive.php?id=15
+Channel 8,http://112.213.101.147/cctv/UBlive.php?id=142
+Channel 5,http://112.213.101.147/cctv/UBlive.php?id=449
+Channel U,http://112.213.101.147/cctv/UBlive.php?id=448
+Suria,http://112.213.101.147/cctv/UBlive.php?id=434
+鳳凰中文台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2001
+鳳凰資訊台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2002
+鳳凰香港台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2090
+翡翠台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2019 
+明珠台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2020
+J2,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2021
+無綫新聞台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2023
+無綫財經資訊台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2024
+有線綜合娛樂台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2025
+有線新聞台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2026
+now新聞台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2054
+now直播台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2055
+
+qq群:1128582638  qq群:1128582638
+
+
+RTHK31,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2063
+RTHK32,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2064
+RTHK33,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2065
+有線18台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2066
+有線體育台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2076
+有線Sports Plus 1,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2077
+香港衛視,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2089
+TVBS,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2028
+民视,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2030
+民视新聞台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2056
+中视,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2029
+中视新聞,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2039
+華視,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2035
+台视,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2037
+台视新聞,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2041
+台視財經,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2043
+公视,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2032
+壹新聞,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2045
+
+qq群:1128582638  qq群:1128582638
+
+
+寰宇新聞台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2046
+寰宇新聞台湾台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2047
+非凡新聞,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2062
+年代新聞,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2048
+三立Live新聞,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2049
+三立台湾台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2050
+東森新聞,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2051
+東森財經新聞,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2052
+東森電影,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2053
+緯來體育,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2057
+緯來電影,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2059
+靖天電影台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2060
+靖天資訊台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2061
+動物星球,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2087
+探索亞洲,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2078
+探索频道,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2079
+國家地理野生,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2044
+ELTA體育1台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2070
+ELTA體育2台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2071
+ELTA體育3台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2072
+FOX體育,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2073
+FOX體育2台,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2074
+ELEVEN SPORTS PLUS,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2069
+博斯無限,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2080
+博斯無限II,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2081
+博斯網球,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2082
+博斯運動 I,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2083
+博斯運動 II,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2084
+博斯高球 I,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2085
+博斯高球 II,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2086
+TRACE SPORT STARS,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2075
+BBC NEWS,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2068
+ANIMAX,http://api.kaka-app.xyz/proxy.php?vid=hk1&id=2033
+
+qq群:1128582638  qq群:1128582638
+
+
+鳳凰中文台,http://112.213.101.147/cctv/UBlive.php?id=357
+鳳凰資訊台,http://112.213.101.147/cctv/UBlive.php?id=359
+鳳凰電影,http://112.213.101.147/cctv/UBlive.php?id=19
+翡翠台,http://112.213.101.147/cctv/UBlive.php?id=30
+翡翠台,http://112.213.101.147/cctv/UBlive.php?id=390
+J2,http://112.213.101.147/cctv/UBlive.php?id=392
+明珠台 ,http://112.213.101.147/cctv/UBlive.php?id=391
+無綫新聞台,http://112.213.101.147/cctv/UBlive.php?id=394
+無綫新聞台,http://112.213.101.147/cctv/UBlive.php?id=45
+無綫財經資訊台,http://112.213.101.147/cctv/UBlive.php?id=393
+有線新聞台,http://112.213.101.147/cctv/UBlive.php?id=395
+有線綜合娛樂台,http://112.213.101.147/cctv/UBlive.php?id=360
+有線電影台,http://112.213.101.147/cctv/UBlive.php?id=354
+有線體育台 ,http://112.213.101.147/cctv/UBlive.php?id=401
+有線18台,http://112.213.101.147/cctv/UBlive.php?id=44
+有線603台,http://112.213.101.147/cctv/UBlive.php?id=398
+有線Sports Plus 1,http://112.213.101.147/cctv/UBlive.php?id=356
+有線Sports Plus 1,http://112.213.101.147/cctv/UBlive.php?id=358
+ViuTV,http://112.213.101.147/cctv/UBlive.php?id=72
+viuTV6,http://112.213.101.147/cctv/UBlive.php?id=176
+
+qq群:1128582638  qq群:1128582638
+
+
+now新聞台,http://112.213.101.147/cctv/UBlive.php?id=396
+now直播台,http://112.213.101.147/cctv/UBlive.php?id=400
+RTHK 31,http://112.213.101.147/cctv/UBlive.php?id=353
+RTHK 32,http://112.213.101.147/cctv/UBlive.php?id=397
+香港衛視,http://112.213.101.147/cctv/UBlive.php?id=399
+香港開電視,http://112.213.101.147/cctv/UBlive.php?id=17
+星空衛视,http://112.213.101.147/cctv/UBlive.php?id=56
+耀才財經台,http://112.213.101.147/cctv/UBlive.php?id=355
+澳視澳門,http://112.213.101.147/cctv/UBlive.php?id=23
+澳門衛視,http://112.213.101.147/cctv/UBlive.php?id=29
+澳門蓮花,http://112.213.101.147/cctv/UBlive.php?id=70
+澳門葡語,http://112.213.101.147/cctv/UBlive.php?id=24
+CCTV-1综合,http://112.213.101.147/cctv/UBlive.php?id=200
+CCTV-2财经,http://112.213.101.147/cctv/UBlive.php?id=201
+CCTV-3综艺,http://112.213.101.147/cctv/UBlive.php?id=202
+CCTV-4中文国际,http://112.213.101.147/cctv/UBlive.php?id=203
+CCTV-5体育,http://112.213.101.147/cctv/UBlive.php?id=204
+CCTV-5+体育,http://112.213.101.147/cctv/UBlive.php?id=205
+CCTV-6电影,http://112.213.101.147/cctv/UBlive.php?id=206
+CCTV-7国防军事,http://112.213.101.147/cctv/UBlive.php?id=207
+CCTV-8电视剧,http://112.213.101.147/cctv/UBlive.php?id=208
+CCTV-9纪录 ,http://112.213.101.147/cctv/UBlive.php?id=209
+CCTV-10科教,http://112.213.101.147/cctv/UBlive.php?id=210
+CCTV-11戏曲,http://112.213.101.147/cctv/UBlive.php?id=211
+CCTV-12社会与法,http://112.213.101.147/cctv/UBlive.php?id=212
+CCTV-13新闻,http://112.213.101.147/cctv/UBlive.php?id=213
+CCTV-14少儿,http://112.213.101.147/cctv/UBlive.php?id=214
+CCTV-15音乐,http://112.213.101.147/cctv/UBlive.php?id=215
+CCTV-娱乐,http://112.213.101.147/cctv/UBlive.php?id=222
+CGTN,http://112.213.101.147/cctv/UBlive.php?id=221
+
+
+qq群:1128582638  qq群:1128582638
+
+
+浙江卫视,http://112.213.101.147/cctv/UBlive.php?id=217
+江苏卫视,http://112.213.101.147/cctv/UBlive.php?id=218
+湖南卫视,http://112.213.101.147/cctv/UBlive.php?id=226
+东方卫视,http://112.213.101.147/cctv/UBlive.php?id=224
+北京卫视,http://112.213.101.147/cctv/UBlive.php?id=220
+广东卫视,http://112.213.101.147/cctv/UBlive.php?id=231
+广东南方卫视,http://112.213.101.147/cctv/UBlive.php?id=219
+深圳卫视,http://112.213.101.147/cctv/UBlive.php?id=230
+湖北卫视,http://112.213.101.147/cctv/UBlive.php?id=227
+东南卫视,http://112.213.101.147/cctv/UBlive.php?id=228
+辽宁卫视,http://112.213.101.147/cctv/UBlive.php?id=229
+安徽卫视,http://112.213.101.147/cctv/UBlive.php?id=232
+四川卫视,http://112.213.101.147/cctv/UBlive.php?id=233
+山东卫视,http://112.213.101.147/cctv/UBlive.php?id=234
+海峡卫视,http://112.213.101.147/cctv/UBlive.php?id=223
+厦门卫视,http://112.213.101.147/cctv/UBlive.php?id=216
+河北卫视,http://112.213.101.147/cctv/UBlive.php?id=225
+TVBS,http://112.213.101.147/cctv/UBlive.php?id=16
+TVBS b,http://112.213.101.147/cctv/UBlive.php?id=88
+TVBS新聞台,http://112.213.101.147/cctv/UBlive.php?id=2
+TVBS歡樂台,http://112.213.101.147/cctv/UBlive.php?id=40
+TVBS精采台,http://112.213.101.147/cctv/UBlive.php?id=66
+三立iNews,http://112.213.101.147/cctv/UBlive.php?id=8
+三立Live新聞,http://112.213.101.147/cctv/UBlive.php?id=4
+三立台湾台,http://112.213.101.147/cctv/UBlive.php?id=35
+三立綜合台,http://112.213.101.147/cctv/UBlive.php?id=315
+三立都會台,http://112.213.101.147/cctv/UBlive.php?id=38
+中天亞洲台,http://112.213.101.147/cctv/UBlive.php?id=322
+中天娛樂,http://112.213.101.147/cctv/UBlive.php?id=324
+中天新聞,http://112.213.101.147/cctv/UBlive.php?id=3
+中天綜合,http://112.213.101.147/cctv/UBlive.php?id=325
+
+
+
+qq群:1128582638  qq群:1128582638
+
+
+中天綜合b,http://112.213.101.147/cctv/UBlive.php?id=54
+中華財經台,http://112.213.101.147/cctv/UBlive.php?id=317
+中视,http://112.213.101.147/cctv/UBlive.php?id=333
+中视新聞,http://112.213.101.147/cctv/UBlive.php?id=7
+中视精采,http://112.213.101.147/cctv/UBlive.php?id=74
+中视經典,http://112.213.101.147/cctv/UBlive.php?id=185
+亞洲旅遊台,http://112.213.101.147/cctv/UBlive.php?id=77
+八大第1台,http://112.213.101.147/cctv/UBlive.php?id=318
+八大娛樂台,http://112.213.101.147/cctv/UBlive.php?id=105
+八大戲劇台,http://112.213.101.147/cctv/UBlive.php?id=81
+公视,http://112.213.101.147/cctv/UBlive.php?id=361
+公视b,http://112.213.101.147/cctv/UBlive.php?id=86
+公视台語台,http://112.213.101.147/cctv/UBlive.php?id=58
+公视戲劇,http://112.213.101.147/cctv/UBlive.php?id=69
+台视,http://112.213.101.147/cctv/UBlive.php?id=27
+台视b,http://112.213.101.147/cctv/UBlive.php?id=326
+台视新聞,http://112.213.101.147/cctv/UBlive.php?id=1
+台视綜合,http://112.213.101.147/cctv/UBlive.php?id=309
+台視財經,http://112.213.101.147/cctv/UBlive.php?id=300
+壹新聞,http://112.213.101.147/cctv/UBlive.php?id=303
+寰宇新聞台,http://112.213.101.147/cctv/UBlive.php?id=304
+寰宇新聞台湾台,http://112.213.101.147/cctv/UBlive.php?id=87
+寰宇综合,http://112.213.101.147/cctv/UBlive.php?id=190
+寰宇財經台,http://112.213.101.147/cctv/UBlive.php?id=320
+星衛娛樂台,http://112.213.101.147/cctv/UBlive.php?id=89
+星衛電影台,http://112.213.101.147/cctv/UBlive.php?id=496
+東森新聞,http://112.213.101.147/cctv/UBlive.php?id=9
+東森綜合,http://112.213.101.147/cctv/UBlive.php?id=372
+東森超視,http://112.213.101.147/cctv/UBlive.php?id=80
+東森電影,http://112.213.101.147/cctv/UBlive.php?id=350
+東森幼幼,http://112.213.101.147/cctv/UBlive.php?id=371
+東森戲劇,http://112.213.101.147/cctv/UBlive.php?id=321
+東森電視,http://112.213.101.147/cctv/UBlive.php?id=12
+民视,http://112.213.101.147/cctv/UBlive.php?id=26
+民视b,http://112.213.101.147/cctv/UBlive.php?id=336
+民视新聞台,http://112.213.101.147/cctv/UBlive.php?id=13
+民視台灣台,http://112.213.101.147/cctv/UBlive.php?id=36
+民視第一台,http://112.213.101.147/cctv/UBlive.php?id=34
+
+qq群:1128582638  qq群:1128582638
+
+
+民视旅遊,http://112.213.101.147/cctv/UBlive.php?id=78
+民视綜藝台,http://112.213.101.147/cctv/UBlive.php?id=98 
+緯來綜合,http://112.213.101.147/cctv/UBlive.php?id=340
+緯來育樂,http://112.213.101.147/cctv/UBlive.php?id=312
+緯來育樂b,http://112.213.101.147/cctv/UBlive.php?id=338
+緯來電影,http://112.213.101.147/cctv/UBlive.php?id=96 
+緯來戲劇,http://112.213.101.147/cctv/UBlive.php?id=339
+緯來日本,http://112.213.101.147/cctv/UBlive.php?id=337
+ELTA娛樂,http://112.213.101.147/cctv/UBlive.php?id=351
+ELTA影劇,http://112.213.101.147/cctv/UBlive.php?id=500
+EYE TV戲劇,http://112.213.101.147/cctv/UBlive.php?id=191
+JET综合,http://112.213.101.147/cctv/UBlive.php?id=41
+美亞電影台,http://112.213.101.147/cctv/UBlive.php?id=375
+華藝綜合台,http://112.213.101.147/cctv/UBlive.php?id=310
+華視,http://112.213.101.147/cctv/UBlive.php?id=32
+華視b,http://112.213.101.147/cctv/UBlive.php?id=327
+華视新聞資訊,http://112.213.101.147/cctv/UBlive.php?id=6
+衛視電影台,http://112.213.101.147/cctv/UBlive.php?id=369
+衛視電影台b,http://112.213.101.147/cctv/UBlive.php?id=93
+采昌影劇台,http://112.213.101.147/cctv/UBlive.php?id=62
+靖天歡樂台,http://112.213.101.147/cctv/UBlive.php?id=51
+靖天綜合台,http://112.213.101.147/cctv/UBlive.php?id=308
+靖天國際台,http://112.213.101.147/cctv/UBlive.php?id=345
+靖天戲劇台,http://112.213.101.147/cctv/UBlive.php?id=109
+靖天日本台,http://112.213.101.147/cctv/UBlive.php?id=108
+靖天映畫,http://112.213.101.147/cctv/UBlive.php?id=349
+靖天資訊台,http://112.213.101.147/cctv/UBlive.php?id=49
+靖天電影台,http://112.213.101.147/cctv/UBlive.php?id=110
+靖天卡通台,http://112.213.101.147/cctv/UBlive.php?id=344
+靖洋戲劇台,http://112.213.101.147/cctv/UBlive.php?id=319
+靖洋卡通台,http://112.213.101.147/cctv/UBlive.php?id=348
+非凡商業,http://112.213.101.147/cctv/UBlive.php?id=187
+非凡新聞,http://112.213.101.147/cctv/UBlive.php?id=314
+韓國娛樂台,http://112.213.101.147/cctv/UBlive.php?id=73
+高點綜合 ,http://112.213.101.147/cctv/UBlive.php?id=99 
+龍祥時代,http://112.213.101.147/cctv/UBlive.php?id=373
+龍華偶像 ,http://112.213.101.147/cctv/UBlive.php?id=347
+龍華動畫,http://112.213.101.147/cctv/UBlive.php?id=366
+龍華戲劇,http://112.213.101.147/cctv/UBlive.php?id=365
+龍華日韓 ,http://112.213.101.147/cctv/UBlive.php?id=382
+龍華經典,http://112.213.101.147/cctv/UBlive.php?id=364
+龍華經典b,http://112.213.101.147/cctv/UBlive.php?id=100
+龍華電影,http://112.213.101.147/cctv/UBlive.php?id=311
+動物星球,http://112.213.101.147/cctv/UBlive.php?id=367
+國家地理頻道,http://112.213.101.147/cctv/UBlive.php?id=114
+國家地理頻道b,http://112.213.101.147/cctv/UBlive.php?id=302
+好萊塢電影,http://112.213.101.147/cctv/UBlive.php?id=37
+
+
+
+qq群:1128582638  qq群:1128582638
+
+
+探索亞洲,http://112.213.101.147/cctv/UBlive.php?id=306
+探索科学,http://112.213.101.147/cctv/UBlive.php?id=343
+緯來體育,http://112.213.101.147/cctv/UBlive.php?id=118
+緯來體育b,http://112.213.101.147/cctv/UBlive.php?id=52
+博斯魅力 ,http://112.213.101.147/cctv/UBlive.php?id=175
+博斯無限,http://112.213.101.147/cctv/UBlive.php?id=381
+博斯無限II,http://112.213.101.147/cctv/UBlive.php?id=426
+博斯網球,http://112.213.101.147/cctv/UBlive.php?id=498
+博斯運動 I,http://112.213.101.147/cctv/UBlive.php?id=379
+博斯運動 II,http://112.213.101.147/cctv/UBlive.php?id=380
+博斯高球 I,http://112.213.101.147/cctv/UBlive.php?id=377
+博斯高球 II,http://112.213.101.147/cctv/UBlive.php?id=378
+ELEVEN SPORTS 2,http://112.213.101.147/cctv/UBlive.php?id=301
+ELEVEN SPORTS PLUS ,http://112.213.101.147/cctv/UBlive.php?id=419
+ELTA體育1台,http://112.213.101.147/cctv/UBlive.php?id=192
+ELTA體育2台,http://112.213.101.147/cctv/UBlive.php?id=193
+ELTA體育3台,http://112.213.101.147/cctv/UBlive.php?id=194
+FOX體育3台,http://112.213.101.147/cctv/UBlive.php?id=376
+智林體育台,http://112.213.101.147/cctv/UBlive.php?id=82
+sky sport golf,http://112.213.101.147/cctv/UBlive.php?id=417
+sky sport premier league,http://112.213.101.147/cctv/UBlive.php?id=418
+sky sports cricket,http://112.213.101.147/cctv/UBlive.php?id=171
+sky sports cricket b,http://112.213.101.147/cctv/UBlive.php?id=179
+sky sports F1,http://112.213.101.147/cctv/UBlive.php?id=182
+sky sports GOLF ,http://112.213.101.147/cctv/UBlive.php?id=180
+sky sports main event,http://112.213.101.147/cctv/UBlive.php?id=172
+sky sports main event b,http://112.213.101.147/cctv/UBlive.php?id=177
+sky sports NFL,http://112.213.101.147/cctv/UBlive.php?id=178
+sky sports premier league,http://112.213.101.147/cctv/UBlive.php?id=181
+STAR SPORTS,http://112.213.101.147/cctv/UBlive.php?id=79
+時尚運動,http://112.213.101.147/cctv/UBlive.php?id=71
+豬哥亮歌廳秀,http://112.213.101.147/cctv/UBlive.php?id=75
+客家電视台,http://112.213.101.147/cctv/UBlive.php?id=76
+國興衛視,http://112.213.101.147/cctv/UBlive.php?id=65
+大爱,http://112.213.101.147/cctv/UBlive.php?id=11
+大爱,http://112.213.101.147/cctv/UBlive.php?id=184
+大爱2台 ,http://112.213.101.147/cctv/UBlive.php?id=197
+好消息,http://112.213.101.147/cctv/UBlive.php?id=104
+好消息2,http://112.213.101.147/cctv/UBlive.php?id=363
+原住民電視台,http://112.213.101.147/cctv/UBlive.php?id=95 
+人間衛視,http://112.213.101.147/cctv/UBlive.php?id=101
+信吉電視台,http://112.213.101.147/cctv/UBlive.php?id=422
+天映经典频道 ,http://112.213.101.147/cctv/UBlive.php?id=328
+
+
+
+qq群:1128582638  qq群:1128582638
+
+
+
+ELTV 生活英語台,http://112.213.101.147/cctv/UBlive.php?id=323
+空中英語教室,http://112.213.101.147/cctv/UBlive.php?id=313
+第一商業,http://112.213.101.147/cctv/UBlive.php?id=186
+車迷電視,http://112.213.101.147/cctv/UBlive.php?id=352
+幸福空間居家台,http://112.213.101.147/cctv/UBlive.php?id=61
+影迷數位電影台,http://112.213.101.147/cctv/UBlive.php?id=497
+希望電視台,http://112.213.101.147/cctv/UBlive.php?id=67
+迪士尼頻道,http://112.213.101.147/cctv/UBlive.php?id=5
+Baby First tw,http://112.213.101.147/cctv/UBlive.php?id=173
+Boomerang卡通,http://112.213.101.147/cctv/UBlive.php?id=57
+CATCHPLAY電影台,http://112.213.101.147/cctv/UBlive.php?id=362
+CN卡通频道,http://112.213.101.147/cctv/UBlive.php?id=107
+nick jr tw,http://112.213.101.147/cctv/UBlive.php?id=50
+愛放2,http://112.213.101.147/cctv/UBlive.php?id=299
+愛放3,http://112.213.101.147/cctv/UBlive.php?id=259
+曼迪日本台,http://112.213.101.147/cctv/UBlive.php?id=316
+abc NEWS,http://112.213.101.147/cctv/UBlive.php?id=189
+AFN亞洲美食,http://112.213.101.147/cctv/UBlive.php?id=195
+AFN亞洲美食,http://112.213.101.147/cctv/UBlive.php?id=307
+ALJAZEERA,http://112.213.101.147/cctv/UBlive.php?id=494
+AMC最愛電影,http://112.213.101.147/cctv/UBlive.php?id=92
+AXN,http://112.213.101.147/cctv/UBlive.php?id=423
+BBC ALBA,http://112.213.101.147/cctv/UBlive.php?id=161
+BBC Earth,http://112.213.101.147/cctv/UBlive.php?id=97 
+BBC ENTERTAINMENT,http://112.213.101.147/cctv/UBlive.php?id=160
+BBC Lifestyle,http://112.213.101.147/cctv/UBlive.php?id=424
+BBC NEWS,http://112.213.101.147/cctv/UBlive.php?id=157
+BBC NEWS b,http://112.213.101.147/cctv/UBlive.php?id=158
+BBC PARLIMENT,http://112.213.101.147/cctv/UBlive.php?id=162
+BBC WORLD NEWS,http://112.213.101.147/cctv/UBlive.php?id=164
+BBC WORLD NEWS b,http://112.213.101.147/cctv/UBlive.php?id=421
+BBC,http://112.213.101.147/cctv/UBlive.php?id=159
+Bloomberg News,http://112.213.101.147/cctv/UBlive.php?id=370
+Blue Ant Extream,http://112.213.101.147/cctv/UBlive.php?id=103
+BT SPORT 1,http://112.213.101.147/cctv/UBlive.php?id=165
+BT SPORT 2,http://112.213.101.147/cctv/UBlive.php?id=166
+BT SPORT 3,http://112.213.101.147/cctv/UBlive.php?id=167
+CBeebies BBC,http://112.213.101.147/cctv/UBlive.php?id=115
+CBN NEWS,http://112.213.101.147/cctv/UBlive.php?id=499
+Cinema World,http://112.213.101.147/cctv/UBlive.php?id=84
+cnex,http://112.213.101.147/cctv/UBlive.php?id=91
+CNN,http://112.213.101.147/cctv/UBlive.php?id=420
+Comedy Central,http://112.213.101.147/cctv/UBlive.php?id=85
+Da Vinci,http://112.213.101.147/cctv/UBlive.php?id=68
+Discovery eve,http://112.213.101.147/cctv/UBlive.php?id=111
+Disney Junior,http://112.213.101.147/cctv/UBlive.php?id=47
+DMAX ,http://112.213.101.147/cctv/UBlive.php?id=335
+DreamWorks,http://112.213.101.147/cctv/UBlive.php?id=48
+DW,http://112.213.101.147/cctv/UBlive.php?id=14
+ESPN,http://112.213.101.147/cctv/UBlive.php?id=170
+Fashion One,http://112.213.101.147/cctv/UBlive.php?id=113
+
+
+qq群:1128582638  qq群:1128582638
+
+
+FOX,http://112.213.101.147/cctv/UBlive.php?id=384
+FOX動作電影,http://112.213.101.147/cctv/UBlive.php?id=385
+FOX家庭影院,http://112.213.101.147/cctv/UBlive.php?id=383
+Fox警匪,http://112.213.101.147/cctv/UBlive.php?id=386
+Ginx Sports TV,http://112.213.101.147/cctv/UBlive.php?id=425
+HBO,http://112.213.101.147/cctv/UBlive.php?id=332
+History,http://112.213.101.147/cctv/UBlive.php?id=116
+HLN,http://112.213.101.147/cctv/UBlive.php?id=43
+KBS1,http://112.213.101.147/cctv/UBlive.php?id=174
+LOVE NATURE,http://112.213.101.147/cctv/UBlive.php?id=388
+LUXE TV,http://112.213.101.147/cctv/UBlive.php?id=112
+m20,http://112.213.101.147/cctv/UBlive.php?id=94 
+Medici-arts,http://112.213.101.147/cctv/UBlive.php?id=188
+Mezzo Live,http://112.213.101.147/cctv/UBlive.php?id=60
+MTV LIVE,http://112.213.101.147/cctv/UBlive.php?id=106
+NASA TV,http://112.213.101.147/cctv/UBlive.php?id=196
+NASA,http://112.213.101.147/cctv/UBlive.php?id=25
+NHK WORLD,http://112.213.101.147/cctv/UBlive.php?id=117
+nick jr Channel,http://112.213.101.147/cctv/UBlive.php?id=53
+Outdoor,http://112.213.101.147/cctv/UBlive.php?id=374
+Pet Club TV,http://112.213.101.147/cctv/UBlive.php?id=368
+Real Madrid FC,http://112.213.101.147/cctv/UBlive.php?id=20
+sky cinema,http://112.213.101.147/cctv/UBlive.php?id=183
+SKY NEWS,http://112.213.101.147/cctv/UBlive.php?id=169
+thrill,http://112.213.101.147/cctv/UBlive.php?id=18
+TLC旅遊生活,http://112.213.101.147/cctv/UBlive.php?id=102
+Travel Channel,http://112.213.101.147/cctv/UBlive.php?id=63
+TV5MONDE,http://112.213.101.147/cctv/UBlive.php?id=389
+Viet VOA,http://112.213.101.147/cctv/UBlive.php?id=22
+VOA卫视,http://112.213.101.147/cctv/UBlive.php?id=495
+Warner TV,http://112.213.101.147/cctv/UBlive.php?id=83
+新唐人亞太台,http://112.213.101.147/cctv/UBlive.php?id=10
+日テレnews24,http://112.213.101.147/cctv/UBlive.php?id=42
+CCTV-1综合,http://198.98.55.16/crtv.php?id=200
+CCTV-2财经,http://198.98.55.16/crtv.php?id=201
+CCTV-3综艺,http://198.98.55.16/crtv.php?id=202
+CCTV-4中文国际,http://198.98.55.16/crtv.php?id=203
+CCTV-5体育,http://198.98.55.16/crtv.php?id=204
+CCTV-5+体育,http://198.98.55.16/crtv.php?id=205
+CCTV-6电影,http://198.98.55.16/crtv.php?id=206
+CCTV-7军事农业,http://198.98.55.16/crtv.php?id=207
+CCTV-8电视剧,http://198.98.55.16/crtv.php?id=208
+CCTV-9纪录,http://198.98.55.16/crtv.php?id=209
+CCTV-10科教,http://198.98.55.16/crtv.php?id=210
+CCTV-11戏曲,http://198.98.55.16/crtv.php?id=211
+CCTV-12社会与法,http://198.98.55.16/crtv.php?id=212
+CCTV-13新闻,http://198.98.55.16/crtv.php?id=213
+CCTV-14少儿,http://198.98.55.16/crtv.php?id=214
+CCTV-15音乐,http://198.98.55.16/crtv.php?id=215
+CCTV-娱乐,http://198.98.55.16/crtv.php?id=222
+CGTN,http://198.98.55.16/crtv.php?id=221
+
+
+qq群:1128582638  qq群:1128582638
+
+
+浙江卫视,http://198.98.55.16/crtv.php?id=217
+江苏卫视,http://198.98.55.16/crtv.php?id=218
+湖南卫视,http://198.98.55.16/crtv.php?id=226
+东方卫视,http://198.98.55.16/crtv.php?id=224
+北京卫视,http://198.98.55.16/crtv.php?id=220
+广东卫视,http://198.98.55.16/crtv.php?id=231
+广东南方卫视,http://198.98.55.16/crtv.php?id=219
+深圳卫视,http://198.98.55.16/crtv.php?id=230
+厦门卫视,http://198.98.55.16/crtv.php?id=216
+海峡卫视,http://198.98.55.16/crtv.php?id=223
+河北卫视,http://198.98.55.16/crtv.php?id=225
+湖北卫视,http://198.98.55.16/crtv.php?id=227
+东南卫视,http://198.98.55.16/crtv.php?id=228
+辽宁卫视,http://198.98.55.16/crtv.php?id=229
+安徽卫视,http://198.98.55.16/crtv.php?id=232
+四川卫视,http://198.98.55.16/crtv.php?id=233
+山东卫视,http://198.98.55.16/crtv.php?id=234
+ABC朝日,http://198.98.55.16/crtv.php?id=127
+ANIMAX,http://198.98.55.16/crtv.php?id=139
+BS-Fuji,http://198.98.55.16/crtv.php?id=244
+BS-TBS,http://198.98.55.16/crtv.php?id=242
+BSテレ東京,http://198.98.55.16/crtv.php?id=243
+BS日テレ,http://198.98.55.16/crtv.php?id=240
+BS朝日,http://198.98.55.16/crtv.php?id=241
+Discovery,http://198.98.55.16/crtv.php?id=290
+GAORA,http://198.98.55.16/crtv.php?id=296
+GOLF NETWORK,http://198.98.55.16/crtv.php?id=249
+Green Channel,http://198.98.55.16/crtv.php?id=140
+Green Channel,http://198.98.55.16/crtv.php?id=245
+Japanet DX Channel,http://198.98.55.16/crtv.php?id=39
+JapanNews24,http://198.98.55.16/crtv.php?id=1042
+J-sports-1,http://198.98.55.16/crtv.php?id=129
+J-sports-2,http://198.98.55.16/crtv.php?id=130
+J-sports-3,http://198.98.55.16/crtv.php?id=131
+J-sports-4,http://198.98.55.16/crtv.php?id=132
+
+
+qq群:1128582638  qq群:1128582638
+
+
+
+Kids Station,http://198.98.55.16/crtv.php?id=289
+Music Japan TV,http://198.98.55.16/crtv.php?id=288
+NHK BS1,http://198.98.55.16/crtv.php?id=128
+NHK BSプレミアム,http://198.98.55.16/crtv.php?id=239
+NHK Eテレ,http://198.98.55.16/crtv.php?id=120
+NHK G,http://198.98.55.16/crtv.php?id=121
+NHK WORLD,http://198.98.55.16/crtv.php?id=117
+NTV News24,http://198.98.55.16/crtv.php?id=42
+NTV,http://198.98.55.16/crtv.php?id=119
+STAR1,http://198.98.55.16/crtv.php?id=136
+STAR2,http://198.98.55.16/crtv.php?id=137
+STAR3,http://198.98.55.16/crtv.php?id=138
+TBS,http://198.98.55.16/crtv.php?id=124
+Tokyo MX1,http://198.98.55.16/crtv.php?id=33
+Tokyo MX2,http://198.98.55.16/crtv.php?id=1148
+WOWOWシネマ,http://198.98.55.16/crtv.php?id=135
+WOWOWプライム,http://198.98.55.16/crtv.php?id=133
+WOWOWライブ,http://198.98.55.16/crtv.php?id=134
+サンテレビジョン,http://198.98.55.16/crtv.php?id=238
+スカイA,http://198.98.55.16/crtv.php?id=247
+テレビ大阪,http://198.98.55.16/crtv.php?id=126
+テレビ朝日,http://198.98.55.16/crtv.php?id=237
+テレビ東京,http://198.98.55.16/crtv.php?id=123
+時代劇の専門家,http://198.98.55.16/crtv.php?id=287
+每日放送,http://198.98.55.16/crtv.php?id=199
+衛星劇場,http://198.98.55.16/crtv.php?id=298
+読売テレビ,http://198.98.55.16/crtv.php?id=198
+関西テレビ,http://198.98.55.16/crtv.php?id=235
+Channel A,http://198.98.55.16/crtv.php?id=258
+CNTV,http://198.98.55.16/crtv.php?id=256
+
+
+qq群:1128582638  qq群:1128582638
+
+
+
+CTS,http://198.98.55.16/crtv.php?id=491
+EBS 1,http://198.98.55.16/crtv.php?id=1098
+EBS 2,http://198.98.55.16/crtv.php?id=1093
+EBS e,http://198.98.55.16/crtv.php?id=1095
+EBS i,http://198.98.55.16/crtv.php?id=1096
+EBS KIDS,http://198.98.55.16/crtv.php?id=1094
+EBS+2,http://198.98.55.16/crtv.php?id=1097
+INET,http://198.98.55.16/crtv.php?id=490
+JTBC GOLF,http://198.98.55.16/crtv.php?id=268
+JTBC,http://198.98.55.16/crtv.php?id=253
+KBS 1,http://198.98.55.16/crtv.php?id=174
+KBS 2,http://198.98.55.16/crtv.php?id=250
+KBS Drama,http://198.98.55.16/crtv.php?id=1062
+KBS Joy,http://198.98.55.16/crtv.php?id=1154
+KBSN SPORTS,http://198.98.55.16/crtv.php?id=264
+MBC Drama,http://198.98.55.16/crtv.php?id=261
+MBC every1,http://198.98.55.16/crtv.php?id=
+MBC SPORTS+,http://198.98.55.16/crtv.php?id=265
+MBC,http://198.98.55.16/crtv.php?id=251
+MBN,http://198.98.55.16/crtv.php?id=257
+Mnet,http://198.98.55.16/crtv.php?id=1136
+NGC,http://198.98.55.16/crtv.php?id=1064
+OCN MOVIES,http://198.98.55.16/crtv.php?id=1020
+OCN,http://198.98.55.16/crtv.php?id=488
+SBS CNBC,http://198.98.55.16/crtv.php?id=255
+SBS FUNE,http://198.98.55.16/crtv.php?id=254
+SBS GOLF,http://198.98.55.16/crtv.php?id=486
+SBS Plus,http://198.98.55.16/crtv.php?id=262
+SBS Sports,http://198.98.55.16/crtv.php?id=487
+SBS STAR,http://198.98.55.16/crtv.php?id=1101
+SBS,http://198.98.55.16/crtv.php?id=252
+SPOTV,http://198.98.55.16/crtv.php?id=266
+SPOTV2,http://198.98.55.16/crtv.php?id=267
+Tooniverse,http://198.98.55.16/crtv.php?id=1134
+Tooniverse,http://198.98.55.16/crtv.php?id=492
+YTN Science,http://198.98.55.16/crtv.php?id=1092
+YTN,http://198.98.55.16/crtv.php?id=1061
+바둑 TV,http://198.98.55.16/crtv.php?id=1065
+연합뉴스TV,http://198.98.55.16/crtv.php?id=1039
+
+
+
+qq群:1128582638  qq群:1128582638
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
