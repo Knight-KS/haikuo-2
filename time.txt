@@ -311,3 +311,6 @@ MBN,http://live2.abcdsky.com:1935/live/MBN/playlist.m3u8
 黑莓电影,http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226292/1.m3u8
 黑莓电竞,http://221.179.217.9//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226262/1.m3u8
 星影电影,http://61.160.152.55/live.aishang.ctlcdn.com/00000110240279_1/encoder/0/playlist.m3u8?CONTENTID=00000110240279_1
+专享_520,#genre#
+松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/media-u7n7u13fd_w1523462549_12518.m3u8
+happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
