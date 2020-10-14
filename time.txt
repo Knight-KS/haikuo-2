@@ -152,6 +152,15 @@ VR直播熊猫 3M1080,http://39.134.66.66/PLTV/88888888/224/3221225654/index.m3u
 国外,#genre#
 有線財經資訊台,http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
 有線綜合娛樂台,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
+EBS第一频道,http://ebs.jilu8.cn/groundwavetablet500k/tablet500k/playlist.m3u8
+EBS儿童频道,http://ebs.jilu8.cn/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8
+EBS第2频道,http://ebs.jilu8.cn/ebs2tablet500k/tablet500k/playlist.m3u8
+EBS2+频道,https://ebs.jilu8.cn/plus2tablet500k/tablet500k/playlist.m3u8
+EBS i,https://ebs.jilu8.cn/plus1tablet500k/tablet500k/playlist.m3u8
+EBS e,http://ebs.jilu8.cn/plus3tablet500k/tablet500k/playlist.m3u8
+阿里郎电视台,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+光州电视台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
+韩国MBC TV,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
 电影,#genre#
 电影1,http://520574.xyz/dl/youku.php?id=8022366
 电影2,http://520574.xyz/dl/youku.php?id=8022040
