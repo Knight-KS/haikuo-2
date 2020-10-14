@@ -207,6 +207,13 @@ TV2[1280*720],https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunk
 TV5 Monde Asie(Việt Nam)[400*240],https://tv5asievi-i.akamaihd.net/hls/live/631619/tv5asievi/index.m3u8
 TVOkey[1280*720],https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
 TVRI Jakarta[720*540],http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
+日本全天新闻1,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+日本nhk中文,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+日本nhk2,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp/index_1M.m3u8
+美国亚美卫视,https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+朝鲜中央台,http://live2.abcdsky.com:1935/live/BCX/playlist.m3u8
+YTN,http://live2.abcdsky.com:1935/live/YTN/playlist.m3u8
+MBN,http://live2.abcdsky.com:1935/live/MBN/playlist.m3u8
 电影,#genre#
 电影1,http://520574.xyz/dl/youku.php?id=8022366
 电影2,http://520574.xyz/dl/youku.php?id=8022040
