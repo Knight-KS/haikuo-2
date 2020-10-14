@@ -161,6 +161,11 @@ EBS e,http://ebs.jilu8.cn/plus3tablet500k/tablet500k/playlist.m3u8
 阿里郎电视台,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 光州电视台,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 韩国MBC TV,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+TV1[1280*720],https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+TV2[1280*720],https://rtm2mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b1064000.m3u8
+TV5 Monde Asie(Việt Nam)[400*240],https://tv5asievi-i.akamaihd.net/hls/live/631619/tv5asievi/index.m3u8
+TVOkey[1280*720],https://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b1064000.m3u8
+TVRI Jakarta[720*540],http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
 电影,#genre#
 电影1,http://520574.xyz/dl/youku.php?id=8022366
 电影2,http://520574.xyz/dl/youku.php?id=8022040
