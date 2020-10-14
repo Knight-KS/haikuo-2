@@ -32,7 +32,49 @@ CCTV14 720,http://39.134.66.66/PLTV/88888888/224/3221225557/index.m3u8
 CCTV15 576,http://39.134.66.66/PLTV/88888888/224/3221225513/index.m3u8
 CGTN 576,http://39.134.66.66/PLTV/88888888/224/3221225510/index.m3u8
 CGTN纪录 576,http://39.134.66.66/PLTV/88888888/224/3221225509/index.m3u8
-
+央视精品,#genre#
+CCTV怀旧剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+CCTV风云剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+CCTV第一剧场,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+CCTV风云音乐,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+CCTV风云足球,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+CCTV世界地理,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+CCTV兵器科技,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+CCTV女性时尚,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+CCTV文化精品,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+CCTV高网,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+老故事,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225677/1/index.m3u8?fmt=ts2hls
+发现之旅,http://39.134.24.202/PLTV/88888888/224/3221225879/index.m3u8
+书画频道,rtmp://112.73.66.59:1935/livepkgr/shtv
+摄影频道,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225683/1/index.m3u8?fmt=ts2hls
+国学频道,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225692/1/index.m3u8?fmt=ts2hls
+早期教育,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225679/1/index.m3u8?fmt=ts2hls
+中学生,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225663/1/index.m3u8?fmt=ts2hls
+环球奇观,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225681/1/index.m3u8?fmt=ts2hls
+文物宝库,http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225766/1/index.m3u8?fmt=ts2hls
+爱奇艺精品,#genre#
+爱奇艺_收视冠军,http://baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_shoushiguanjun_720p_t5/c16_lb_shoushiguanjun_720p_t5.m3u8
+爱奇艺_经典港片,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_jingdianguangpian_720p_t5/c18_lb_jingdianguangpian_720p_t5.m3u8
+爱奇艺_豆瓣高分,http://baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_wuxingyingyuan_720p_t5/c15_lb_wuxingyingyuan_720p_t5.m3u8
+爱奇艺_惊悚午夜,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_jingnawuyechang_720p_t5/c16_lb_jingnawuyechang_720p_t5.m3u8
+爱奇艺_动作电影,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_dongzuodianying_720p_t5/c15_lb_dongzuodianying_720p_t5.m3u8
+爱奇艺温情,http://baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c17_lb_chenglong_720p_t5/c17_lb_chenglong_720p_t5.m3u8
+爱奇艺_动画电影,http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_donghuadianying_720p_t5/c15_lb_donghuadianying_720p_t5.m3u8
+爱奇艺_周末影院,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c15_lb_fengxiaogang_720p_t5/c15_lb_fengxiaogang_720p_t5.m3u8
+爱奇艺_青春剧场,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_qingchunjuchang_720p_t5/c18_lb_qingchunjuchang_720p_t5.m3u8
+爱奇艺_电影大片,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_dianyingjingxuan_720p_t5/c19_lb_dianyingjingxuan_720p_t5.m3u8
+爱奇艺_谍战剧场,http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_diezhanjuchang_720p_t5/c18_lb_diezhanjuchang_720p_t5.m3u8
+爱奇艺_热播电视剧,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_rebodianshiju_720p_t5/c18_lb_rebodianshiju_720p_t5.m3u8
+爱奇艺_仙侠玄幻,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_xianxiaxuanhuan_720p_t5/c18_lb_xianxiaxuanhuan_720p_t5.m3u8
+爱奇艺_军旅剧场,http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c17_lb_junlvjuchang_720p_t5/c17_lb_junlvjuchang_720p_t5.m3u8
+爱奇艺_抗战剧场,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c17_lb_kangzhanjuchang_720p_t5/c17_lb_kangzhanjuchang_720p_t5.m3u8
+爱奇艺_票房收割机,http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_heibangdianying_720p_t5/c19_lb_heibangdianying_720p_t5.m3u8
+爱奇艺_宫廷正剧,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_niandaijuchang_720p_t5/c19_lb_niandaijuchang_720p_t5.m3u8
+爱奇艺_家庭剧场,http://120.232.170.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c19_lb_jiatingjuchang_720p_t5/c19_lb_jiatingjuchang_720p_t5.m3u8
+爱奇艺_情景喜剧,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_qingjingxiju_720p_t5/c16_lb_qingjingxiju_720p_t5.m3u8
+爱奇艺_经典重温,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c16_lb_jingdianchongwen_720p_t5/c16_lb_jingdianchongwen_720p_t5.m3u8
+爱奇艺_军事观察,http://120.241.39.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c20_lb_junshiguancha_720P_t5/c20_lb_junshiguancha_720P_t5.m3u8
+爱奇艺_历史秘闻,http://120.233.49.41/r/baiducdncmn-gd.inter.ptqy.gitv.tv/tslive/c18_lb_lishimiwen_720P_t5/c18_lb_lishimiwen_720P_t5.m3u8
 卫视,#genre#
 东方卫视 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225672/index.m3u8
 北京卫视 4M1080,http://39.134.66.66/PLTV/88888888/224/3221225678/index.m3u8
