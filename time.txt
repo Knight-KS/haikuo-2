@@ -698,11 +698,7 @@ CETV早期教育,http://39.130.215.158:6610/gitv_live/G_CETV-ZQJY/
 高清大片,http://mtv.jdvip.win/tv/mgutv.php?id=629943678
 悬疑推理剧场,http://mtv.jdvip.win/tv/mgutv.php?id=625574493
 热剧联播,http://mtv.jdvip.win/tv/mgutv.php?id=629943613
-首映电影,http://szdl.3322.org:8888/rtp/233.50.201.239:5140
-动作电影,http://szdl.3322.org:8888/rtp/233.50.201.232:5140
-环球电影,http://szdl.3322.org:8888/rtp/233.50.201.231:5140
-欧美电影,http://szdl.3322.org:8888/rtp/233.50.201.230:5140
-华语电影,http://szdl.3322.org:8888/rtp/233.50.201.240:5140
+
 国外,#genre#
 有線財經資訊台,http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
 有線綜合娛樂台,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
@@ -728,6 +724,11 @@ TVRI Jakarta[720*540],http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/L
 YTN,http://live2.abcdsky.com:1935/live/YTN/playlist.m3u8
 MBN,http://live2.abcdsky.com:1935/live/MBN/playlist.m3u8
 电影,#genre#
+首映电影,http://szdl.3322.org:8888/rtp/233.50.201.239:5140
+动作电影,http://szdl.3322.org:8888/rtp/233.50.201.232:5140
+环球电影,http://szdl.3322.org:8888/rtp/233.50.201.231:5140
+欧美电影,http://szdl.3322.org:8888/rtp/233.50.201.230:5140
+华语电影,http://szdl.3322.org:8888/rtp/233.50.201.240:5140
 家庭影院,https://itv.ahcme.edu.cn/hls/hls39.m3u8
 怀旧电影,https://itv.ahcme.edu.cn/hls/hls48.m3u8
 喜剧电影,https://itv.ahcme.edu.cn/hls/hls147.m3u8
