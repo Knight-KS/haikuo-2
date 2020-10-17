@@ -616,6 +616,16 @@ CETV早期教育,http://39.130.215.158:6610/gitv_live/G_CETV-ZQJY/
 彭水文旅,http://pengshuilive.cbg.cn/pengshui02.m3u8#http://125.62.25.129/pengshui02.m3u8
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 港台,#genre#
+壹新闻,http://45.11.2.138:25461/live/live/look/914.m3u8
+迈阿密TV,http://45.11.2.138:25461/live/live/look/915.m3u8
+迈尔密TV2,http://45.11.2.138:25461/live/live/look/916.m3u8
+民視,http://45.11.2.138:25461/live/live/look/930.m3u8
+民視台湾,http://45.11.2.138:25461/live/live/look/931.m3u8
+民視影剧,http://45.11.2.138:25461/live/live/look/932.m3u8
+民視新聞,http://45.11.2.138:25461/live/live/look/933.m3u8
+民視旅游,http://45.11.2.138:25461/live/live/look/935.m3u8
+民視第一,http://45.11.2.138:25461/live/live/look/936.m3u8
+民視综艺,http://45.11.2.138:25461/live/live/look/937.m3u8
 无线新闻,http://45.93.217.106/jiuban/hg.php?id=1
 翡翠,mitv://147.135.39.171:9906/5f29b38e0002c26d622cbe2d7ef03624.ts
 翡翠,p8p://user3.shusongw.mobi:16871/5f378d9b0003c2e4417a53bb22d95282.ts
