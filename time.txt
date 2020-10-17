@@ -665,6 +665,18 @@ Viu TV 6,mitv://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
 江苏优漫卡通 576,http://39.134.66.66/PLTV/88888888/224/3221225556/index.m3u8
 湖南金鹰卡通 576,http://39.134.66.66/PLTV/88888888/224/3221225561/index.m3u8
 特色1,#genre#
+DOX映画,http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221226039//index.m3u8?fmt=ts2hls
+DOX新知,http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221226014/1/index.m3u8?fmt=ts2hls
+DOX新艺,http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221226017/1/index.m3u8?fmt=ts2hls
+DOX雅趣,http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221226042/1/index.m3u8?fmt=ts2hls
+DOX怡家,http://39.135.9.77:80/gz.ucdn.10086.cn/PLTV/88888888/224/3221226016/1/index.m3u8?fmt=ts2hls3
+KiD影视②,http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8 
+KiD影视③,http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8 
+KiD影视④,http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8 
+KiD影视⑤,http://112.50.243.8/PLTV/88888888/224/3221225893/1.m3u8 
+KiD影视⑥,http://112.50.243.8/PLTV/88888888/224/3221226692/1.m3u8 
+KiD影视⑦,http://112.50.243.8/PLTV/88888888/224/3221226754/1.m3u8 
+KiD影视⑧,http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 电影01,http://pull.kktv8.com/livekktv/143960119.flv
 电影02,http://pull.kktv8.com/livekktv/128600025.flv
 电影03,http://pull.kktv8.com/livekktv/99350550.flv
