@@ -616,6 +616,7 @@ CETV早期教育,http://39.130.215.158:6610/gitv_live/G_CETV-ZQJY/
 彭水文旅,http://pengshuilive.cbg.cn/pengshui02.m3u8#http://125.62.25.129/pengshui02.m3u8
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8
 港台,#genre#
+
 HBOHD,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
 HBOSignat,mitv://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
 HBOHits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
@@ -696,6 +697,24 @@ TLC旅遊台,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.ts
 國興衛視,mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
 華納電視頻道,mitv ://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
 MOMO親子台,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
+壹新闻,http://cdn.wakds.xyz:25461/hls/live/914
+迈阿密tv ,http://cdn.wakds.xyz:25461/hls/live/915
+民视,http://cdn.wakds.xyz:25461/hls/live/930
+民视台湾,http://cdn.wakds.xyz:25461/hls/live/931
+民视新闻,http://cdn.wakds.xyz:25461/hls/live/933
+民视综艺,http://cdn.wakds.xyz:25461/hls/live/937
+翡翠台,http://cdn.wakds.xyz:25461/hls/live/941
+无线新闻,http://cdn.wakds.xyz:25461/hls/live/944
+有线新闻,http://cdn.wakds.xyz:25461/hls/live/946
+viutv ,http://cdn.wakds.xyz:25461/hls/live/947
+viutv6 ,http://cdn.wakds.xyz:25461/hls/live/948
+无线财经,http://cdn.wakds.xyz:25461/hls/live/949
+J2 ,http://cdn.wakds.xyz:25461/hls/live/950
+Now新闻,http://cdn.wakds.xyz:25461/hls/live/951
+有线娱乐,http://cdn.wakds.xyz:25461/hls/live/961
+有线电影,http://cdn.wakds.xyz:25461/hls/live/962
+星河台,http://cdn.wakds.xyz:25461/hls/live/973
+卫视卡式台,http://cdn.wakds.xyz:25461/hls/live/976
 壹新闻,http://45.11.2.138:25461/live/live/look/914.m3u8
 迈阿密TV,http://45.11.2.138:25461/live/live/look/915.m3u8
 迈尔密TV2,http://45.11.2.138:25461/live/live/look/916.m3u8
