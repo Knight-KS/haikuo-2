@@ -511,7 +511,7 @@ CETV早期教育,http://39.130.215.158:6610/gitv_live/G_CETV-ZQJY/
 驻马店·遂平综合,http://live.dxhmt.cn:9081/tv/11728-1.m3u8
 驻马店·西平综合,http://live.dxhmt.cn:9081/tv/11721-1.m3u8
 驻马店·上蔡电视,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
-驻马店·平舆新闻http://live.dxhmt.cn:9081/tv/11723-1.m3u8
+驻马店·平舆新闻,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
 驻马店·确山电视,http://live.dxhmt.cn:9081/tv/11725-1.m3u8
 驻马店·泌阳新闻,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
 平顶山·郏县综合,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
