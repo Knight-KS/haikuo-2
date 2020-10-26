@@ -3,115 +3,115 @@
 	"name": "蘑菇资源",
 	"api": "http://zy.mgys8.com/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 2,
 	"name": "8090资源",
 	"api": "http://zy.yilans.net/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 3,
 	"name": "1717资源",
 	"api": "http://zy.itono.cn/inc/api.php",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 4,
 	"name": "恐怖鸭资源",
 	"api": "https://ya.kongbuya.com/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 5,
 	"name": "乐喵资源",
 	"api": "http://zy.singlive.cn/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 6,
 	"name": "诺讯资源",
 	"api": "http://ziyuan.nuoxun.net/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 7,
 	"name": "7K资源",
 	"api": "https://zy.7kjx.com/cjapi.php",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 8,
 	"name": "花园影视",
 	"api": "http://api.zz22x.com/inc/qb.php",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 9,
 	"name": "暗夜资源",
 	"api": "https://vip.aywlkj.xyz/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 10,
 	"name": "明日资源",
 	"api": "http://zy.zcocc.com/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 11,
 	"name": "萝卜资源",
 	"api": "http://cj.lby.pet/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 12,
 	"name": "小小资源",
 	"api": "https://api.xxdizhi.cc/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 13,
 	"name": "奇领yy6080",
 	"api": "http://yyid6080.cn/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 14,
 	"name": "八八资源",
 	"api": "http://zy.88jiexi.com/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 15,
 	"name": "BT爱看影院",
 	"api": "http://www.btak.tv/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 16,
 	"name": "尔东影视",
 	"api": "http://www.edysw.cn/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 17,
 	"name": "ADC电影网",
 	"api": "https://www.adcmove.com/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 18,
 	"name": "追剧吧",
 	"api": "http://www.huaxiab.com/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 19,
 	"name": "趣步TV",
 	"api": "http://qubu.tv/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
 	"id": 20,
 	"name": "宅看影视",
