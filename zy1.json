@@ -1,515 +1,538 @@
 [{
 	"id": 1,
-	"name": "宅看影视",
-	"api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml",
+	"name": "蘑菇资源",
+	"api": "http://zy.mgys8.com/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 2,
-	"name": "泡饭影视",
-	"api": "https://www.paofans.net/api.php/provide/vod/at/xml",
+	"name": "8090资源",
+	"api": "http://zy.yilans.net/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 3,
-	"name": "阿里云资源",
-	"api": "http://www.alizyw.com:88/api.php/provide/vod/at/xml",
+	"name": "1717资源",
+	"api": "http://zy.itono.cn/inc/api.php",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 4,
-	"name": "人人资源",
-	"api": "http://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml",
+	"name": "恐怖鸭资源",
+	"api": "https://ya.kongbuya.com/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 5,
-	"name": "多多云",
-	"api": "http://api.ddyunp.com/api.php/provide/vod/at/xml",
+	"name": "乐喵资源",
+	"api": "http://zy.singlive.cn/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 6,
-	"name": "驱动云",
-	"api": "http://zt6a.cn/api.php/provide/vod/at/xml/",
+	"name": "诺讯资源",
+	"api": "http://ziyuan.nuoxun.net/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 7,
-	"name": "9E看看",
-	"api": "https://www.9ekk.com/api.php/provide/vod/at/xml",
-	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-}, {
-	"id": 8,
-	"name": "QT资源",
-	"api": "http://zy.potatost.xyz/api.php/provide/vod/at/xml",
-	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-}, {
-	"id": 10,
 	"name": "7K资源",
 	"api": "https://zy.7kjx.com/cjapi.php",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+}, {
+	"id": 8,
+	"name": "花园影视",
+	"api": "http://api.zz22x.com/inc/qb.php",
+	"download": "",
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+}, {
+	"id": 9,
+	"name": "暗夜资源",
+	"api": "https://vip.aywlkj.xyz/api.php/provide/vod/at/xml/",
+	"download": "",
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+}, {
+	"id": 10,
+	"name": "明日资源",
+	"api": "http://zy.zcocc.com/api.php/provide/vod/at/xml/",
+	"download": "",
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 11,
-	"name": "明日资源",
-	"api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
+	"name": "萝卜资源",
+	"api": "http://cj.lby.pet/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 12,
-	"name": "八八资源",
-	"api": "http://zy.88jiexi.com/api.php/provide/vod/at/xml",
+	"name": "小小资源",
+	"api": "https://api.xxdizhi.cc/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 13,
-	"name": "诺讯资源",
-	"api": "http://www.nuoxun.net/api.php/provide/vod/at/xml",
+	"name": "奇领yy6080",
+	"api": "http://yyid6080.cn/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 14,
-	"name": "萝卜资源",
-	"api": "https://cj.lby.pet/api.php/provide/vod/at/xml",
+	"name": "八八资源",
+	"api": "http://zy.88jiexi.com/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 15,
-	"name": "趣步TV",
-	"api": "http://qubu.tv/api.php/provide/vod/at/xml",
+	"name": "BT爱看影院",
+	"api": "http://www.btak.tv/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 16,
-	"name": "奇领yy6080",
-	"api": "http://yyid6080.cn/api.php/provide/vod/at/xml",
+	"name": "尔东影视",
+	"api": "http://www.edysw.cn/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 17,
-	"name": "星空影视",
-	"api": "https://muyunqing.net/inc/api.php",
+	"name": "ADC电影网",
+	"api": "https://www.adcmove.com/api.php/provide/vod/at/xml/",
 	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
 }, {
 	"id": 18,
+	"name": "追剧吧",
+	"api": "http://www.huaxiab.com/api.php/provide/vod/at/xml/",
+	"download": "",
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+}, {
+	"id": 19,
+	"name": "趣步TV",
+	"api": "http://qubu.tv/api.php/provide/vod/at/xml/",
+	"download": "",
+	"parseApi": "https://www.rrzyw.cc/rrm3u8/index.php?url="
+}, {
+	"id": 20,
+	"name": "宅看影视",
+	"api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml",
+	"download": ""
+}, {
+	"id": 21,
 	"name": "106资源",
 	"api": "http://106.53.96.250/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 19,
+	"id": 22,
 	"name": "乐视/最大",
 	"api": "http://api.leshizyw.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 20,
+	"id": 23,
 	"name": "最大/乐视",
 	"api": "http://www.zdziyuan.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 21,
+	"id": 24,
 	"name": "沃酷m3u8",
 	"api": "https://www.wokuzy.com/api/xml/wokum3u8",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 22,
+	"id": 25,
 	"name": "沃酷云播",
 	"api": "https://www.wokuzy.com/api/xml/wokull",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 23,
+	"id": 26,
 	"name": "OK资源",
 	"api": "http://cj.okzy.tv/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 24,
+	"id": 27,
 	"name": "搜乐资源",
 	"api": "https://www.baiwanzy.vip/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 25,
+	"id": 28,
 	"name": "麻花资源",
 	"api": "https://www.mhapi123.com/inc/ldg_api_all.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 26,
+	"id": 29,
 	"name": "酷云资源",
 	"api": "http://caiji.kuyun98.com/inc/ldg_api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 27,
+	"id": 30,
 	"name": "八戒资源",
 	"api": "http://cj.bajiecaiji.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 28,
+	"id": 31,
 	"name": "永久资源",
 	"api": "http://cj.yongjiuzyw.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 29,
+	"id": 32,
 	"name": "酷播资源",
 	"api": "http://api.kbzyapi.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 30,
+	"id": 33,
 	"name": "秒播资源",
 	"api": "http://caiji.mb77.vip/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 31,
+	"id": 34,
 	"name": "速播资源",
 	"api": "http://www.subo988.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 32,
+	"id": 35,
 	"name": "快播资源",
 	"api": "http://www.kuaibozy.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 33,
+	"id": 36,
 	"name": "牛牛资源",
 	"api": "http://v.niuniucj.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 34,
+	"id": 37,
 	"name": "百万资源",
 	"api": "https://www.baiwanzy.net/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 35,
+	"id": 38,
 	"name": "看看/131",
 	"api": "http://v.bbtsv.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 36,
+	"id": 39,
 	"name": "聚合资源",
 	"api": "https://cj.cbi88.com/inc/api_juhem3u8.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 37,
+	"id": 40,
 	"name": "豆瓣资源",
 	"api": "http://v.1988cj.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 38,
+	"id": 41,
 	"name": "胖鸟资源",
 	"api": "http://api.pangniaozyw.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 39,
+	"id": 42,
 	"name": "帝国资源",
 	"api": "http://www.yszydg.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 40,
+	"id": 43,
 	"name": "乐多资源",
 	"api": "http://www.leduozy.com/inc/seacmsapi.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 41,
+	"id": 44,
 	"name": "萝卜m3u8",
 	"api": "http://zy.lbe4.co/api.php/provide/vod/from/lbm3u8/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 42,
+	"id": 45,
 	"name": "恐怖鸭m3u8",
 	"api": "https://ya.kongbuya.com/api.php/provide/vod/from/kbym3u8/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 43,
+	"id": 46,
 	"name": "麻雀资源",
 	"api": "http://api.maquezy.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 44,
+	"id": 47,
 	"name": "百度云资源",
 	"api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 45,
+	"id": 48,
 	"name": "穿梭资源",
 	"api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 46,
+	"id": 49,
 	"name": "天空资源",
 	"api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 47,
+	"id": 50,
 	"name": "采集资源",
 	"api": "https://www.caijizy.vip/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 48,
+	"id": 51,
 	"name": "4k资源",
 	"api": "https://kkkkzy.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 49,
+	"id": 52,
 	"name": "123资源",
 	"api": "http://www.123ku.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 50,
+	"id": 53,
 	"name": "135资源",
 	"api": "http://cj.zycjw1.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 51,
+	"id": 54,
 	"name": "158资源网",
 	"api": "http://cj.158zyz.net:158/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 52,
+	"id": 55,
 	"name": "209资源",
 	"api": "http://cj.1156zy.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 53,
+	"id": 56,
 	"name": "605资源",
 	"api": "http://www.605zy.co/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 54,
+	"id": 57,
 	"name": "1886资源",
 	"api": "http://cj.1886zy.co/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 55,
+	"id": 58,
 	"name": "9191资源",
 	"api": "http://api.9191zy.vip/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 56,
+	"id": 59,
 	"name": "电影淘淘",
 	"api": "http://flvweb.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 57,
+	"id": 60,
 	"name": "无限影视",
 	"api": "http://www.wxtv.net/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 58,
+	"id": 61,
 	"name": "逗看影视",
 	"api": "https://www.doukanzy.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 59,
+	"id": 62,
 	"name": "一起看剧",
 	"api": "http://www.17kanju.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 60,
+	"id": 63,
 	"name": "小收影视",
 	"api": "http://www.p4kan.com/inc/api.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 61,
+	"id": 64,
 	"name": "TV88影视",
 	"api": "http://www.tv88.vip/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 62,
+	"id": 65,
 	"name": "牛牛影院",
 	"api": "https://www.48da.net/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 63,
+	"id": 66,
 	"name": "蚂蚁BT",
 	"api": "https://www.mayipbt.cc/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 64,
+	"id": 67,
 	"name": "新奇遇电影",
 	"api": "https://www.newqiyu.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 65,
+	"id": 68,
 	"name": "太初电影",
 	"api": "https://www.tcmove.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 66,
+	"id": 69,
 	"name": "被窝电影网",
 	"api": "https://www.beiwodi.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 67,
+	"id": 70,
 	"name": "碧池TV",
 	"api": "https://www.bichitv.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 68,
+	"id": 71,
 	"name": "人人影院",
 	"api": "https://www.rryy99.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 69,
+	"id": 72,
 	"name": "HD影院",
 	"api": "http://www.ihdtvw.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 70,
+	"id": 73,
 	"name": "看吧影院",
 	"api": "https://www.kbpian.cc/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 71,
+	"id": 74,
 	"name": "神马电影网",
 	"api": "https://52gbyy.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 72,
+	"id": 75,
 	"name": "樱花动漫",
 	"api": "http://www.zkk7.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 73,
+	"id": 76,
 	"name": "日剧啦",
 	"api": "https://www.rijula.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 74,
+	"id": 77,
 	"name": "韩剧网",
 	"api": "http://www.iyisai.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 75,
+	"id": 78,
 	"name": "泰剧迷",
 	"api": "https://www.taijumi.cc/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 76,
+	"id": 79,
 	"name": "吾爱看影视",
 	"api": "http://www.5aikp.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 77,
+	"id": 80,
 	"name": "免费影院",
 	"api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 78,
+	"id": 81,
 	"name": "艾旦影视",
 	"api": "https://ttlu222.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 79,
+	"id": 82,
 	"name": "天天影视网",
 	"api": "http://www.tiantysw.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 80,
+	"id": 83,
 	"name": "PZ影视",
 	"api": "https://puz.pub/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 81,
+	"id": 84,
 	"name": "蚂蚁影视",
 	"api": "https://www.mayiys.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 82,
+	"id": 85,
 	"name": "AWSLTV",
 	"api": "http://www.awsltv.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 83,
+	"id": 86,
 	"name": "黑黑聚合",
 	"api": "http://dy.r2b2b.cn:11801/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 84,
+	"id": 87,
 	"name": "花园影视",
 	"api": "http://api.zz22x.com/inc/qbv10.php",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 85,
+	"id": 88,
 	"name": "ADC电影网",
 	"api": "https://www.adcmove.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 86,
+	"id": 89,
 	"name": "追剧吧",
 	"api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
 	"download": "",
 	"parseApi": ""
 }, {
-	"id": 87,
+	"id": 90,
 	"name": "尔东影视",
 	"api": "http://www.edysw.cn/api.php/provide/vod/at/xml",
 	"download": "",
