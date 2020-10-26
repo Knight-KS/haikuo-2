@@ -759,7 +759,7 @@ Viu TV 6,mitv://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
 旅游,http://45.11.2.138:25461/live/live/look/935.m3u8
 民视第一台,http://45.11.2.138:25461/live/live/look/936.m3u8
 综艺,http://45.11.2.138:25461/live/live/look/937.m3u8
-港台1，#genre#
+港台1,#genre#
 翡翠台,http://bbdd.228888888.xyz:8081/hls/ch101.m3u8
 明珠台,http://bbdd.228888888.xyz:8081/hls/ch104.m3u8
 J2,http://bbdd.228888888.xyz:8081/hls/ch102.m3u8
