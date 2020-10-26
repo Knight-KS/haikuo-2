@@ -47,12 +47,6 @@
 	"download": "",
 	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
 }, {
-	"id": 9,
-	"name": "恐怖鸭资源",
-	"api": "https://ya.kongbuya.com/api.php/provide/vod/at/xml",
-	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-}, {
 	"id": 10,
 	"name": "7K资源",
 	"api": "https://zy.7kjx.com/cjapi.php",
