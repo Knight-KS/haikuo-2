@@ -1,10 +1,4 @@
 [{
-	"id": 1,
-	"name": "蘑菇资源",
-	"api": "http://zy.mgys8.com/api.php/provide/vod/at/xml/",
-	"download": "",
-	"parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-}, {
 	"id": 2,
 	"name": "8090资源",
 	"api": "http://zy.yilans.net/api.php/provide/vod/at/xml/",
