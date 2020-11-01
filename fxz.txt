@@ -1054,7 +1054,7 @@ BS洋片,vjms://58.215.133.154:8500/live/cid=307
 NHKBSP,vjms://58.215.133.154:8500/live/cid=303
 BS-TBS,vjms://58.215.133.154:8500/live/cid=305
 
-$c_start爱美剧开车_520$c_end
+$c_start爱美剧开车$c_end
 姨母的诱惑,http://youku1.dianfubang.com/20190221/Sr2Zsip3/index.m3u8
 金瓶梅全集,http://youku1.dianfubang.com/20190303/4nb74sxU/index.m3u8
 人妻啪啪啪2,http://youku1.dianfubang.com/20190928/MGbcI3c6/index.m3u8
