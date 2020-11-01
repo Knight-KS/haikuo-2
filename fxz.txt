@@ -82,7 +82,9 @@ CCTV13 720,http://182.138.51.71/PLTV/88888920/224/3221225658/index.m3u8
 四川经济 720+576,http://182.138.51.71/PLTV/88888920/224/3221225552/index.m3u8
 熊猫新闻 720,http://182.138.51.71/PLTV/88888920/224/3221225693/index.m3u8
 温江 720,http://182.138.51.71/PLTV/88888920/224/3221225796/index.m3u8
-﻿$c_start港台$c_end
+$c_start港台$c_end
+HBO HD,https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
+HBO Hit,https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 中视,tvbus://6NwPWjgQKaW6Hcq9PPhazh4cPxh4xCmKC7zq9hpbU7oJknuasWmpwL5Ji1Exb
 中视经典,tvbus://5PwKTDayRaDGquk9CquiMg69CwmNBQzm1KQubFWpz9fvG8ETTG9Scb2QRPMJE
 中视菁采,tvbus://6edxsRpsnrGgn46ccQM5ZBXK7pscfDaqz45pGKWP8W9QfbuGeZbJE31cKeyiY
