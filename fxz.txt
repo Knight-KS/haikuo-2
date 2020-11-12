@@ -4617,6 +4617,15 @@ Ta的颜色/她的颜色,http://youku1.dianfubang.com/20190411/7sBlalf5/index.m3
 $c_start专享_520$c_end
 松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/media-u7n7u13fd_w1523462549_12518.m3u8
 happy,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462550.m3u8
+花花公子,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
+彩虹电影台,mitv://ns1.hellotvvod.com:9906/5f8981c1000557c82eb8f9b427146e0f.ts
+极限电影台,mitv://ns1.hellotvvod.com:9906/5f8984c100059f812ec4b1c42bbd637b.ts
+LOOK影视台,mitv://ns1.hellotvvod.com:9906/5f6f13fd000df5af9efa871e6c7b3ce4.ts
+惊艳电影台,mitv://ns1.hellotvvod.com:9906/5f898378000aecef2ebfae03144d6e94.ts
+潘朵啦玩美台,mitv://ns1.hellotvvod.com:9906/5f89837800056df62ebfac9c6a20310d.ts
+松视1,mitv://ns1.hellotvvod.com:9906/5f897f67000298ef2eafc978696968c5.ts
+松视2,mitv://ns1.hellotvvod.com:9906/5f89837900017eef2ebfaf7a483e2b6a.ts
+彩虹E台,mitv://ns1.hellotvvod.com:9906/5f8981c0000ec1bd2eb8f83d6e1d70ec.ts
 HOT欧美版,http://212.95.135.161:4040/hardcore.m3u8
 松视1欧美版,http://212.95.135.161:4040/fetish.m3u8
 松视2欧美版,http://212.95.135.161:4040/interracial.m3u8
