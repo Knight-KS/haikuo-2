@@ -312,17 +312,7 @@
         "status": "可用",
         "parseApi": ""
     },
-    {
-        "id": 39,
-        "key": "8128zy",
-        "name": "605资源",
-        "api": "http://www.605zy.co/inc/api.php",
-        "download": "",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": ""
-    },
+    
     {
         "id": 40,
         "key": "8129zy",
