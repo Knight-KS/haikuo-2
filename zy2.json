@@ -1,59 +1,5 @@
-[
-    {
-        "id": 1,
-        "key": "mahuazy",
-        "name": "宅看影视",
-        "api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml",
-        "download": "",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-    },
-    {
-        "id": 2,
-        "key": "1886zy",
-        "name": "阿里云资源",
-        "api": "http://www.cqzyw.net:88/api.php/provide/vod/at/xml",
-        "download": "",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-    },
-    {
-        "id": 3,
-        "key": "wolongzy",
-        "name": "人人资源",
-        "api": "http://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml",
-        "download": "",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-    },
-    {
-        "id": 4,
-        "key": "123ku",
-        "name": "多多云",
-        "api": "http://api.ddyunp.com/api.php/provide/vod/at/xml",
-        "download": "",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-    },
-    {
-        "id": 5,
-        "key": "subo988",
-        "name": "9E看看",
-        "api": "https://www.9ekk.com/api.php/provide/vod/at/xml",
-        "download": "",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-    },
+[ 
+   
     {
         "id": 6,
         "key": "88zyw",
@@ -87,39 +33,8 @@
         "status": "可用",
         "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
     },
-    {
-        "id": 9,
-        "key": "apibdzy",
-        "name": "明日资源",
-        "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-        "download": "",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-    },
-    {
-        "id": 10,
-        "key": "okzy",
-        "name": "八八资源",
-        "api": "http://zy.88jiexi.com/api.php/provide/vod/at/xml",
-        "download": "",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-    },
-    {
-        "id": 11,
-        "key": "kuyunzy",
-        "name": "诺讯资源",
-        "api": "http://www.nuoxun.net/api.php/provide/vod/at/xml",
-        "download": "",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-    },
+   
+    
     {
         "id": 12,
         "key": "kubozy",
@@ -153,28 +68,8 @@
         "status": "可用",
         "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
     },
-    {
-        "id": 15,
-        "key": "bbkdj",
-        "name": "星空影视",
-        "api": "https://muyunqing.net/inc/api.php",
-        "download": "",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
-    },
-    {
-        "id": 16,
-        "key": "zuixinzy",
-        "name": "106资源",
-        "api": "http://106.53.96.250/api.php/provide/vod/at/xml",
-        "download": "",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": ""
-    },
+    
+   
     {
         "id": 17,
         "key": "209zy",
