@@ -747,17 +747,7 @@
         "status": "可用",
         "parseApi": "ss"
     },
-    {
-        "id": 79,
-        "key": "8159zy",
-        "name": "89特殊.茄子资源",
-        "api": "http://l.qieziapi.xyz/inc/api.php",
-        "download": "ss",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "ss"
-    },
+
     {
         "id": 80,
         "key": "8160zy",
