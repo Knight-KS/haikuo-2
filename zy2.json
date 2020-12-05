@@ -208,17 +208,7 @@
         "status": "可用",
         "parseApi": "ss"
     },
-    {
-        "id": 30,
-        "key": "8110zy",
-        "name": "帝国资源",
-        "api": "http://www.yszydg.com/inc/api.php",
-        "download": "ss",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "ss"
-    },
+    
     {
         "id": 31,
         "key": "8111zy",
@@ -230,17 +220,7 @@
         "status": "可用",
         "parseApi": "ss"
     },
-    {
-        "id": 32,
-        "key": "8112zy",
-        "name": "恐怖鸭m3u8",
-        "api": "https://ya.kongbuya.com/api.php/provide/vod/from/kbym3u8/at/xml",
-        "download": "ss",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "ss"
-    },
+   
     {
         "id": 33,
         "key": "8113zy",
@@ -538,17 +518,7 @@
         "status": "可用",
         "parseApi": "ss"
     },
-    {
-        "id": 60,
-        "key": "8140zy",
-        "name": "花园影视",
-        "api": "http://api.zz22x.com/inc/qbv10.php",
-        "download": "ss",
-        "group": "默认",
-        "isActive": true,
-        "status": "可用",
-        "parseApi": "ss"
-    },
+   
     {
         "id": 61,
         "key": "8141zy",
