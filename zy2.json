@@ -432,5 +432,166 @@
         "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
         "download": "",
         "parseApi": ""
+    },
+    {
+        "id": 63,
+        "name": "68特殊推荐.佳丽 tv",
+        "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 64,
+        "name": "69特殊.环亚资源",
+        "api": "http://wmcj8.com/inc/sapi.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 65,
+        "name": "70特殊.辣椒资源",
+        "api": "http://api.11bat.com/mac10.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 66,
+        "name": "72特殊.大地资源",
+        "api": "https://dadiapi.com/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 67,
+        "name": "73特殊.IXX 资源",
+        "api": "http://api.iixxzyapi.com/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 68,
+        "name": "74特殊.快活资源站",
+        "api": "https://www.khzyapi.com/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 69,
+        "name": "76特殊.色色",
+        "api": "http://m.7777688.com/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 70,
+        "name": "77特殊.800",
+        "api": "http://cj.809zy.com/inc/seacmsapi.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 71,
+        "name": "78特殊.乐播",
+        "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 72,
+        "name": "79特殊.苍天",
+        "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 73,
+        "name": "80特殊.云霸资源",
+        "api": "http://cj.1234567bt.com/inc/ldg_sea.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 74,
+        "name": "82特殊.番号资源",
+        "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 75,
+        "name": "84特殊.鲨鱼资源",
+        "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 76,
+        "name": "86特殊.七七资源",
+        "api": "https://www.77zyw.xyz/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 77,
+        "name": "87特殊.速度资源",
+        "api": "http://www.ggmmzy.com:9999/inc/xml",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 78,
+        "name": "88特殊.优果资源",
+        "api": "https://www.ugvapi.com/inc/zyapimac.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 79,
+        "name": "89特殊.茄子资源",
+        "api": "http://l.qieziapi.xyz/inc/api.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 80,
+        "name": "90特殊.三合资源",
+        "api": "https://www.3heyingshi.com/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 81,
+        "name": "91特殊.大炮资源",
+        "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 82,
+        "name": "92特殊.独家资源",
+        "api": "http://dujiazy3.com/api.php/provide/vod/at/xml/",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 83,
+        "name": "94特殊.博天堂",
+        "api": "http://bttcj.com/inc/sapi.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 84,
+        "name": "95特殊.35资源",
+        "api": "http://cj.35zycj.com/inc/zyapimac.php",
+        "download": "",
+        "parseApi": ""
+    },
+    {
+        "id": 85,
+        "name": "96特殊.av88资源",
+        "api": "http://m.7777688.com/inc/api.php",
+        "download": "",
+        "parseApi": ""
     }
 ]
