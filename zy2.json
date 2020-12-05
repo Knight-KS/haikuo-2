@@ -1,5 +1,4 @@
-[ 
-   
+[
     {
         "id": 6,
         "key": "88zyw",
@@ -33,8 +32,6 @@
         "status": "可用",
         "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
     },
-   
-    
     {
         "id": 12,
         "key": "kubozy",
@@ -68,8 +65,6 @@
         "status": "可用",
         "parseApi": "https://www.playm3u8.cn/jiexi.php?url="
     },
-    
-   
     {
         "id": 17,
         "key": "209zy",
@@ -259,7 +254,7 @@
     },
     {
         "id": 34,
-        "key": "8122zy",
+        "key": "8131zy",
         "name": "百度云资源",
         "api": "https://api.apibdzy.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -270,7 +265,7 @@
     },
     {
         "id": 35,
-        "key": "8123zy",
+        "key": "8117zy",
         "name": "穿梭资源",
         "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -281,7 +276,7 @@
     },
     {
         "id": 36,
-        "key": "8124zy",
+        "key": "8118zy",
         "name": "天空资源",
         "api": "http://api.tiankongapi.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -292,7 +287,7 @@
     },
     {
         "id": 37,
-        "key": "8126zy",
+        "key": "8119zy",
         "name": "123资源",
         "api": "http://www.123ku.com/inc/api.php",
         "download": "",
@@ -303,7 +298,7 @@
     },
     {
         "id": 38,
-        "key": "8127zy",
+        "key": "8121zy",
         "name": "209资源",
         "api": "http://cj.1156zy.net/inc/api.php",
         "download": "",
@@ -314,7 +309,7 @@
     },
     {
         "id": 39,
-        "key": "8128zy",
+        "key": "8131zy",
         "name": "605资源",
         "api": "http://www.605zy.co/inc/api.php",
         "download": "",
@@ -325,7 +320,7 @@
     },
     {
         "id": 40,
-        "key": "8129zy",
+        "key": "8117zy",
         "name": "1886资源",
         "api": "http://cj.1886zy.co/inc/api.php",
         "download": "",
@@ -336,7 +331,7 @@
     },
     {
         "id": 41,
-        "key": "8130zy",
+        "key": "8118zy",
         "name": "电影淘淘",
         "api": "http://flvweb.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -347,7 +342,7 @@
     },
     {
         "id": 42,
-        "key": "jiali",
+        "key": "8119zy",
         "name": "无限影视",
         "api": "http://www.wxtv.net/api.php/provide/vod/at/xml",
         "download": "",
@@ -358,7 +353,7 @@
     },
     {
         "id": 43,
-        "key": "agzy",
+        "key": "8121zy",
         "name": "逗看影视",
         "api": "https://www.doukanzy.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -369,7 +364,7 @@
     },
     {
         "id": 44,
-        "key": "lajiaozy",
+        "key": "8131zy",
         "name": "小收影视",
         "api": "http://www.p4kan.com/inc/api.php",
         "download": "",
@@ -380,7 +375,7 @@
     },
     {
         "id": 45,
-        "key": "dadizy",
+        "key": "8117zy",
         "name": "牛牛影院",
         "api": "https://www.48da.net/api.php/provide/vod/at/xml",
         "download": "",
@@ -391,7 +386,7 @@
     },
     {
         "id": 46,
-        "key": "ixxzya",
+        "key": "8118zy",
         "name": "蚂蚁BT",
         "api": "https://www.mayipbt.cc/api.php/provide/vod/at/xml",
         "download": "",
@@ -402,7 +397,7 @@
     },
     {
         "id": 47,
-        "key": "khzy",
+        "key": "8119zy",
         "name": "新奇遇电影",
         "api": "https://www.newqiyu.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -413,7 +408,7 @@
     },
     {
         "id": 48,
-        "key": "NhTLgM",
+        "key": "8121zy",
         "name": "太初电影",
         "api": "https://www.tcmove.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -424,7 +419,7 @@
     },
     {
         "id": 49,
-        "key": "jMFjJi",
+        "key": "8131zy",
         "name": "HD影院",
         "api": "http://www.ihdtvw.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -435,7 +430,7 @@
     },
     {
         "id": 50,
-        "key": "LYCe0z",
+        "key": "8117zy",
         "name": "看吧影院",
         "api": "https://www.kbpian.cc/api.php/provide/vod/at/xml",
         "download": "",
@@ -446,7 +441,7 @@
     },
     {
         "id": 51,
-        "key": "Iy0Jlq",
+        "key": "8118zy",
         "name": "神马电影网",
         "api": "https://52gbyy.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -457,7 +452,7 @@
     },
     {
         "id": 52,
-        "key": "77raVf",
+        "key": "8119zy",
         "name": "樱花动漫",
         "api": "http://www.zkk7.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -468,7 +463,7 @@
     },
     {
         "id": 53,
-        "key": "5pjBlA",
+        "key": "8121zy",
         "name": "日剧啦",
         "api": "https://www.rijula.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -479,7 +474,7 @@
     },
     {
         "id": 54,
-        "key": "4btciy",
+        "key": "8131zy",
         "name": "泰剧迷",
         "api": "https://www.taijumi.cc/api.php/provide/vod/at/xml",
         "download": "",
@@ -490,7 +485,7 @@
     },
     {
         "id": 55,
-        "key": "qz492Y",
+        "key": "8117zy",
         "name": "免费影院",
         "api": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -501,7 +496,7 @@
     },
     {
         "id": 56,
-        "key": "kq2A8V",
+        "key": "8118zy",
         "name": "艾旦影视",
         "api": "https://ttlu222.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -512,7 +507,7 @@
     },
     {
         "id": 57,
-        "key": "SO6bSP",
+        "key": "8119zy",
         "name": "天天影视网",
         "api": "http://www.tiantysw.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -523,7 +518,7 @@
     },
     {
         "id": 58,
-        "key": "uPFcxy",
+        "key": "8121zy",
         "name": "PZ影视",
         "api": "https://puz.pub/api.php/provide/vod/at/xml",
         "download": "",
@@ -534,7 +529,7 @@
     },
     {
         "id": 59,
-        "key": "Tuyoxk",
+        "key": "8131zy",
         "name": "AWSLTV",
         "api": "http://www.awsltv.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -545,7 +540,7 @@
     },
     {
         "id": 60,
-        "key": "dydyOa",
+        "key": "8117zy",
         "name": "花园影视",
         "api": "http://api.zz22x.com/inc/qbv10.php",
         "download": "",
@@ -556,7 +551,7 @@
     },
     {
         "id": 61,
-        "key": "vJQZTA",
+        "key": "8118zy",
         "name": "ADC电影网",
         "api": "https://www.adcmove.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -567,7 +562,7 @@
     },
     {
         "id": 62,
-        "key": "zGOSrG",
+        "key": "8119zy",
         "name": "追剧吧",
         "api": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
         "download": "",
@@ -578,7 +573,7 @@
     },
     {
         "id": 63,
-        "key": "jiali",
+        "key": "8121zy",
         "name": "68特殊推荐.佳丽 tv",
         "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
         "download": "",
@@ -589,7 +584,7 @@
     },
     {
         "id": 64,
-        "key": "agzy",
+        "key": "8131zy",
         "name": "69特殊.环亚资源",
         "api": "http://wmcj8.com/inc/sapi.php",
         "download": "",
@@ -600,7 +595,7 @@
     },
     {
         "id": 65,
-        "key": "lajiaozy",
+        "key": "8117zy",
         "name": "70特殊.辣椒资源",
         "api": "http://api.11bat.com/mac10.php",
         "download": "",
@@ -611,7 +606,7 @@
     },
     {
         "id": 66,
-        "key": "dadizy",
+        "key": "8118zy",
         "name": "72特殊.大地资源",
         "api": "https://dadiapi.com/api.php",
         "download": "",
@@ -622,7 +617,7 @@
     },
     {
         "id": 67,
-        "key": "ixxzya",
+        "key": "8119zy",
         "name": "73特殊.IXX 资源",
         "api": "http://api.iixxzyapi.com/inc/api.php",
         "download": "",
@@ -633,7 +628,7 @@
     },
     {
         "id": 68,
-        "key": "khzy",
+        "key": "8121zy",
         "name": "74特殊.快活资源站",
         "api": "https://www.khzyapi.com/api.php/provide/vod/at/xml/",
         "download": "",
@@ -644,7 +639,7 @@
     },
     {
         "id": 69,
-        "key": "NhTLgM",
+        "key": "8131zy",
         "name": "76特殊.色色",
         "api": "http://m.7777688.com/inc/api.php",
         "download": "",
@@ -655,7 +650,7 @@
     },
     {
         "id": 70,
-        "key": "jMFjJi",
+        "key": "8117zy",
         "name": "77特殊.800",
         "api": "http://cj.809zy.com/inc/seacmsapi.php",
         "download": "",
@@ -666,7 +661,7 @@
     },
     {
         "id": 71,
-        "key": "LYCe0z",
+        "key": "8118zy",
         "name": "78特殊.乐播",
         "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
         "download": "",
@@ -677,7 +672,7 @@
     },
     {
         "id": 72,
-        "key": "Iy0Jlq",
+        "key": "8119zy",
         "name": "79特殊.苍天",
         "api": "http://cj.cangtiancj.com/api.php/Seacms/vod/",
         "download": "",
@@ -688,7 +683,7 @@
     },
     {
         "id": 73,
-        "key": "77raVf",
+        "key": "8121zy",
         "name": "80特殊.云霸资源",
         "api": "http://cj.1234567bt.com/inc/ldg_sea.php",
         "download": "",
@@ -699,7 +694,7 @@
     },
     {
         "id": 74,
-        "key": "5pjBlA",
+        "key": "8131zy",
         "name": "82特殊.番号资源",
         "api": "http://fhapi9.com/api.php/provide/vod/at/xml/",
         "download": "",
@@ -710,7 +705,7 @@
     },
     {
         "id": 75,
-        "key": "4btciy",
+        "key": "8117zy",
         "name": "84特殊.鲨鱼资源",
         "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
         "download": "",
@@ -721,7 +716,7 @@
     },
     {
         "id": 76,
-        "key": "qz492Y",
+        "key": "8118zy",
         "name": "86特殊.七七资源",
         "api": "https://www.77zyw.xyz/inc/api.php",
         "download": "",
@@ -732,7 +727,7 @@
     },
     {
         "id": 77,
-        "key": "kq2A8V",
+        "key": "8119zy",
         "name": "87特殊.速度资源",
         "api": "http://www.ggmmzy.com:9999/inc/xml",
         "download": "",
@@ -743,7 +738,7 @@
     },
     {
         "id": 78,
-        "key": "SO6bSP",
+        "key": "8121zy",
         "name": "88特殊.优果资源",
         "api": "https://www.ugvapi.com/inc/zyapimac.php",
         "download": "",
@@ -754,7 +749,7 @@
     },
     {
         "id": 79,
-        "key": "uPFcxy",
+        "key": "8131zy",
         "name": "89特殊.茄子资源",
         "api": "http://l.qieziapi.xyz/inc/api.php",
         "download": "",
@@ -765,7 +760,7 @@
     },
     {
         "id": 80,
-        "key": "Tuyoxk",
+        "key": "8117zy",
         "name": "90特殊.三合资源",
         "api": "https://www.3heyingshi.com/api.php/provide/vod/at/xml/",
         "download": "",
@@ -776,7 +771,7 @@
     },
     {
         "id": 81,
-        "key": "dydyOa",
+        "key": "8118zy",
         "name": "91特殊.大炮资源",
         "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
         "download": "",
@@ -787,7 +782,7 @@
     },
     {
         "id": 82,
-        "key": "vJQZTA",
+        "key": "8119zy",
         "name": "92特殊.独家资源",
         "api": "http://dujiazy3.com/api.php/provide/vod/at/xml/",
         "download": "",
@@ -798,7 +793,7 @@
     },
     {
         "id": 83,
-        "key": "zGOSrG",
+        "key": "8121zy",
         "name": "94特殊.博天堂",
         "api": "http://bttcj.com/inc/sapi.php",
         "download": "",
@@ -809,7 +804,7 @@
     },
     {
         "id": 84,
-        "key": "FyxUS8",
+        "key": "8131zy",
         "name": "95特殊.35资源",
         "api": "http://cj.35zycj.com/inc/zyapimac.php",
         "download": "",
@@ -820,7 +815,7 @@
     },
     {
         "id": 85,
-        "key": "RRvupO",
+        "key": "8117zy",
         "name": "96特殊.av88资源",
         "api": "http://m.7777688.com/inc/api.php",
         "download": "",
