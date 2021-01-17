@@ -66,17 +66,6 @@
         "parseApi":"https://www.playm3u8.cn/jiexi.php?url="
     },
     {
-        "id":7,
-        "key":"209zy",
-        "name":"萝卜资源",
-        "api":"https://cj.lby.pet/api.php/provide/vod/at/xml",
-        "download":"",
-        "group":"默认",
-        "isActive":true,
-        "status":"可用",
-        "parseApi":"https://www.playm3u9.cn/jiexi.php?url="
-    },
-    {
         "id":8,
         "key":"8097zy",
         "name":"趣步TV",
