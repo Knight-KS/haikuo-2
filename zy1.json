@@ -1,15 +1,5 @@
 [
-    {
-        "id":1,
-        "key":"88zyw",
-        "name":"宅看影视",
-        "api":"https://www.zhaikanys.com/api.php/provide/vod/at/xml",
-        "download":"",
-        "group":"默认",
-        "isActive":true,
-        "status":"可用",
-        "parseApi":"https://www.playm3u8.cn/jiexi.php?url="
-    },
+    
     {
         "id":2,
         "key":"zuidazy",
